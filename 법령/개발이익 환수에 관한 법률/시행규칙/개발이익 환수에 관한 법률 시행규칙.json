@@ -1,25 +1,25 @@
 {
   "law_id": "006145",
-  "mst": "35411",
-  "version_uid": "006145:35411:19900302",
+  "mst": "35412",
+  "version_uid": "006145:35412:19911129",
   "law_name": "개발이익 환수에 관한 법률 시행규칙",
   "law_abbr": "개발이익환수법 시행규칙",
   "law_type": "건설부령",
-  "promulgation_no": "00462",
-  "promulgation_date": "19900302",
-  "enforcement_date": "19900302",
-  "revision_date": "19900302",
-  "revision_type": "제정",
+  "promulgation_no": "00495",
+  "promulgation_date": "19911129",
+  "enforcement_date": "19911129",
+  "revision_date": "19911129",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "개발이익환수에관한법률시행규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00462",
+    "공포번호": "00495",
     "전화번호": "044-201-3403, 3405",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "006145",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "건설부령",
       "법종구분코드": "A0092"
     },
-    "시행일자": "19900302",
+    "시행일자": "19911129",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-3403, 3405",
@@ -43,21 +43,21 @@
     },
     "법령명_한자": "개발이익환수에관한법률시행규칙",
     "법령명약칭": "개발이익환수법 시행규칙",
-    "공포일자": "19900302",
+    "공포일자": "19911129",
     "편장절관": "35030000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "[신규제정]\n◇제정이유\n개발이익환수에관한법률(1989.12.30, 법률 제4175호) 및 동법시행령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정하려는 것임.\n◇주요골자\n가. 개발부담금부과대상사업이 2이상의 시·군·구에 걸치는 경우에는 편입된 면적이 가장 많은 구역의 시장·군수·구청장이 개발부담금을 부과·징수하도록 하고, 부담금중 지방자치단체에 귀속하는 귀속분은 각각 편입된 면적의 비율에 의하도록 함(제3조).\n나. 개발부담금의 부과·징수에 필요한 각종 서식을 정함(제4조 내지 제15조).\n다. 시장·군수가 위임받은 사항을 처리한 경우의 월별처리실적보고서를 정함(제16조).",
+  "amendment_text": "⊙건설부령 제495호(1991.11.29)\n개발이익환수에관한법률시행규칙중개정령\n개발이익환수에관한법률시행규칙중 다음과 같이 개정한다.\n제3조의2 및 제3조의3을 각각 다음과 같이 신설한다.\n제3조의2 (유원지설치사업등에 있어서의 부과대상범위) ①영 별표 1 제11호의 사업명란의 유원지설치사업과 공원사업에서 \"건설부령이 정하는 시설\"이라 함은 별표 1과 같다.\n②영 별표 1 제11호의 사업명란의 유통업무설비 설치사업에서 \"건설부령이 정하는 경우\"라 함은 다음 각호의 1에 해당하는 경우를 말한다.\n1. 공공철도건설촉진법 제2조의 규정에 의한 공공철도건설·개량사업 및 도시철도법 제4조의 규정에 의한 도시철도사업으로 화물적하시설등 철도운영과 직접 관련되는 시설을 설치하는 경우\n2. 농수산물유통및가격안정에관한법률 제39조 및 제41조의 규정에 의한 농수산물공판장 및 농수산물집하장을 설치하는 경우\n3. 산림법 제35조의 규정에 의하여 임산물유통시설을 설치하는 경우\n4. 도·소매업진흥법 제19조의2의 규정에 의한 집배송단지를 건립하는 경우\n③영 별표 1 제11호의 사업명란의 \"제1호 내지 제10호의 대상사업과 유사한 사업으로서 건설부령이 정하는 시설\"이라 함은 별표 2와 같다.\n제3조의3 (준공전완료시점의 경우 부과대상토지면적) 영 제8조제4항의 규정에 의하여 개발사업의 준공인가등을 받기 전에 당해사업이 완료되는 것으로 보는 토지의 면적은 별표 3과 같다.\n제4조중 \"제5항\"을 \"제6항\"으로, \"15일\"을 \"25일\"로 한다.\n제14조중 \"15일\"을 \"25일\"로 한다.\n[별표 1] 내지 [별표 3]을 각각 별지와 같이 신설한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.\n[별표1]\n유원지설치사업 및 공원사업의 경우 개발부담금 부과대상시설(제3조의2제1항관련)\n+------+---------------------------------------------------+-----------------------------------+\n| 구분 |      유   원   지   설    치    사    업          |     공     원     사     업       |\n+-------------------------------------------------------------------------------+--------------+\n| 근거 | 도시계획법 제12조제3항(도시계획시설기준에관한규칙 | 자연공원법         | 도시공원법   |\n|      | 제48조제1항제4호)                                 | 제2조제7호         | 제2조제2호   |\n+------+---------------------------------------------------+--------------------+--------------+\n| 부과 |·유희시설                                         |·건축법시행령 부표 |·유희시설    |\n| 대상 |·골프연습장                                       |  제12항의 규정에   |·골프연습장  |\n| 시설 |·휴게실·숙박시설(유스호스텔을 제외한다)          |  의한 휴양콘도미니 |·대중음식점  |\n|      |·식당 및 경마장                                   |  엄.               |              |\n+------+---------------------------------------------------+--------------------+--------------+\n[별표 2]\n토지형질변경허가·산림훼손허가·농지전용허가 또는 초지전용허가를 받아 시행하는\n사업의 경우 개발부담금 부과대상시설(제3조의2제3항관련)\n+------------------------------+----------------------------------------------------------------+\n|   구                    분   |      부        과        대        상        시        설      |\n+------------------------------+----------------------------------------------------------------+\n|·일반건축물을 건축하는 경우  |·건축법시행령 부표 제1항 내지 제4항 및 제11항제2호의 규정에 의 |\n|                              |  한 단독주택·공동주택·기숙사·근린생활시설 및 일반업무시설   |\n|                              |·건축법시행령 부표 제12항·제14항·제15항 및 제30항의 규정에   |\n|                              |  의한 숙박시설(유스호스텔을 제외한다)·위락시설·관람집회시설  |\n|                              |  및 관광휴게시설                                               |\n|                              |·건축법시행령 부표 제13항·제18항 및 제19항제1호의 규정에 의한 |\n|                              |  판매시설·창고시설 및 주유소                                  |\n|                              |·건축법시행령 부표 제20항제1호 및 제2호와 제21항의 규정에 의한 |\n|                              |  시외버스정류장·화물자동차정류장 및 자동차관련시설            |\n|·공장용건축물을 건축하는 경우|·건축법시행령 부표 제17항의 규정에 의한 공장                   |\n|·그밖의 시설을 설치하는 경우 |·체육시설의설치·이용에관한법률시행규칙 별표1의 규정에 의한 골 |\n|                              |  프장업 및 골프연습장업시설                                    |\n+------------------------------+----------------------------------------------------------------+\n[별표 3]\n개발사업의 준공전 완료의 경우 개발부담금 부과대상토지면적(제3조의3관련)\n+--------------+--------------------------------------------------------------------------------+\n| 건   축   물 |               부     과     대     상     토     지     면     적              |\n+--------------+--------------+-----------------------------------------------------------------+\n| 공장외건축물 | 도시계획구역 |·전용주거지역 : 건축물바닥면적의 5배                            |\n|              |              |·중심상업지역·일반상업지역·근린상업지역·준주거지역 : 건축물  |\n|              |              |  바닥면적의 3배                                                 |\n|              |              |·일반주거지역·일반공업지역·준공업지역·전용공업지역 : 건축물  |\n|              |              |  바닥면적의 4배                                                 |\n|              |              |·자연녹지지역·생산녹지지역·보전녹지지역 : 건축물바닥면적의 7배|\n|              |              |·지역의 지정이 없는 지역 : 건축물바닥면적의 4배                 |\n|              +--------------+-----------------------------------------------------------------+\n|              | 도시계획구역 |·건축물바닥면적의 7배                                           |\n|              | 외의 지역    |                                                                 |\n+--------------+--------------+-----------------------------------------------------------------+\n| 공장용건축물 |·지방세법시행령 제84조의4제3항제6호의 규정에 의한 공장입지기준면적             |\n+--------------+--------------+-----------------------------------------------------------------+",
+  "revision_reason": "[일부개정]\n◇개정이유\n개발이익환수에관한법률시행령이 개정(1991.9.13. 대통령령 제13,465호)됨에 따라 시행령에서 위임된 사항과 시행에 필요한 사항을 규정하고 기타 현행 규정의 운영상 나타난 일부 미비점을 보완하려는 것임.\n◇주요골자\n가. 휴양콘도미니엄등 유원지설치사업과 공원사업의 경우 개발부담금이 부과되는 시설을 구체적으로 정함(제3조의2제1항).\n나. 화물적하시설·농산물공판장등 개발부담금부과대상에서 제외되는 유통업무설비를 구체적으로 정함(제3조의2제2항).\n다. 토지형질변경허가·산림훼손허가·농지전용허가 또는 초지전용허가를 받아 시행하는 사업중 개발부담금이 부과되는 대상시설을 정함(제3조의2제3항).\n라. 개발사업이 준공되기 전에 당해사업이 완료된 것으로 보는 경우의 개발부담금 부과대상토지의 면적을 정함(제3조의3).",
   "body": {
     "format": "articles",
-    "article_count": 17,
+    "article_count": 19,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 개발이익환수에관한법률(이하 \"법\"이라 한다) 및 동법시행령(이하 \"영\"이라 한다)에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "징수금의 정산",
         "chapter": "",
         "content": "제2조 (징수금의 정산)\n①시장ㆍ군수 및 자치구의 구청장(이하 \"시장ㆍ군수\"라 한다)은 물납받은 토지의 가액이 영 제3조제2항의 규정에 해당하는 경우에는 월별 물납실적을 제출하는 때에 건설부장관에게 동조동항의 규정에 의한 정산을 신청하여야 한다.\n②건설부장관은 제1항의 규정에 의한 정산신청을 받은 때에는 정산금액을 위임수수료를 지급하는 때에 시장ㆍ군수에게 지급하여야 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0002"
@@ -77,17 +77,37 @@
         "article_title": "개발사업이 2인이상의 시·군·구에 걸치는 경우",
         "chapter": "",
         "content": "제3조 (개발사업이 2인이상의 시ㆍ군ㆍ구에 걸치는 경우)\n①법 제5조의 규정에 의한 개발부담금부과대상사업이 2이상의 시ㆍ군 또는 자치구(이하 \"시ㆍ군\"이라 한다)에 걸치는 경우에는 당해 사업지구의 면적이 가장 많이 편입된 지역의 시장ㆍ군수가 개발부담금을 부과ㆍ징수한다.\n②제1항의 규정에 의하여 부과ㆍ징수한 개발부담금의 지방자치단체귀속분은 각 시ㆍ군별로 편입된 면적의 비율에 의하여 배분한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0003"
       },
       {
+        "article_no": "제3조의2",
+        "article_title": "유원지설치사업등에 있어서의 부과대상범위",
+        "chapter": "",
+        "content": "제3조의2 (유원지설치사업등에 있어서의 부과대상범위)\n①영 별표 1 제11호의 사업명란의 유원지설치사업과 공원사업에서 \"건설부령이 정하는 시설\"이라 함은 별표 1과 같다.\n②영 별표 1 제11호의 사업명란의 유통업무설비 설치사업에서 \"건설부령이 정하는 경우\"라 함은 다음 각호의 1에 해당하는 경우를 말한다.\n1.  공공철도건설촉진법 제2조의 규정에 의한 공공철도건설ㆍ개량사업 및 도시철도법 제4조의 규정에 의한 도시철도사업으로 화물적하시설등 철도운영과 직접 관련되는 시설을 설치하는 경우\n2.  농수산물유통및가격안정에관한법률 제39조 및 제41조의 규정에 의한 농수산물공판장 및 농수산물집하장을 설치하는 경우\n3.  산림법 제35조의 규정에 의하여 임산물유통시설을 설치하는 경우\n4.  도ㆍ소매업진흥법 제19조의2의 규정에 의한 집배송단지를 건립하는 경우\n③영 별표 1 제11호의 사업명란의 \"제1호 내지 제10호의 대상사업과 유사한 사업으로서 건설부령이 정하는 시설\"이라 함은 별표 2와 같다.",
+        "enforcement_date": "19911129",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:개발이익환수에관한법률시행규칙#JO0003_02"
+      },
+      {
+        "article_no": "제3조의3",
+        "article_title": "준공전완료시점의 경우 부과대상토지면적",
+        "chapter": "",
+        "content": "제3조의3 (준공전완료시점의 경우 부과대상토지면적) 영 제8조제4항의 규정에 의하여 개발사업의 준공인가등을 받기 전에 당해사업이 완료되는 것으로 보는 토지의 면적은 별표 3과 같다.",
+        "enforcement_date": "19911129",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:개발이익환수에관한법률시행규칙#JO0003_03"
+      },
+      {
         "article_no": "제4조",
         "article_title": "거래가격신고",
         "chapter": "",
-        "content": "제4조 (거래가격신고) 영 제9조제5항의 규정에 의한 거래가격을 신고하고자 하는 자는 별지 제1호 서식의 거래가격신고서를 준공인가등을 받은 날부터 15일이내에 시장ㆍ군수에게 제출하여야 한다.",
-        "enforcement_date": "19900302",
+        "content": "제4조 (거래가격신고) 영 제9조제6항의 규정에 의한 거래가격을 신고하고자 하는 자는 별지 제1호 서식의 거래가격신고서를 준공인가등을 받은 날부터 25일이내에 시장ㆍ군수에게 제출하여야 한다. <개정 1991.11.29>",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0004"
@@ -97,7 +117,7 @@
         "article_title": "예정통지서",
         "chapter": "",
         "content": "제5조 (예정통지서) 영 제13조제1항의 규정에 의한 개발부담금 예정통지는 별지 제2호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0005"
@@ -107,7 +127,7 @@
         "article_title": "고지전 심사청구서",
         "chapter": "",
         "content": "제6조 (고지전 심사청구서)\n①영 제14조제2항의 규정에 의한 개발부담금의 고지전 심사청구서는 별지 제3호서식에 의한다.\n②영 제14조제4항의 규정에 의한 고지전 심사결정통지서는 별지 제4호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0006"
@@ -117,7 +137,7 @@
         "article_title": "납부고지서등",
         "chapter": "",
         "content": "제7조 (납부고지서등) 영 제16조의 규정에 의한 개발부담금납부고지서와 그 영수증서는 별지 제5호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0007"
@@ -127,7 +147,7 @@
         "article_title": "정정통지서",
         "chapter": "",
         "content": "제8조 (정정통지서) 영 제17조의 규정에 의한 개발부담금부과 고지내용에 대한 정정의 통지는 별지 제6호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0008"
@@ -137,7 +157,7 @@
         "article_title": "개발부담금부과징수대장",
         "chapter": "",
         "content": "제9조 (개발부담금부과징수대장) 시장ㆍ군수는 영 제15조 내지 제19조의 규정에 의하여 개발부담금을 부과ㆍ징수하거나 영 제20조의 규정에 의하여 개발 사업에 대한 현지조사 또는 사실조회등을 한 때에는 별지 제7호서식의 개발부담금부과징수대장에 이를 기록ㆍ관리하여야 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0009"
@@ -147,7 +167,7 @@
         "article_title": "물납신청서",
         "chapter": "",
         "content": "제10조 (물납신청서)\n①영 제18조제1항의 규정에 의한 물납신청서는 별지 제8호서식에 의한다.\n②시장ㆍ군수는 영 제18조제2항의 규정에 의하여 물납을 결정한 때에는 별지 제9호서식의 물납허가서를 교부하여야 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0010"
@@ -157,7 +177,7 @@
         "article_title": "납부연기신청서등",
         "chapter": "",
         "content": "제11조 (납부연기신청서등)\n①영 제19조의 규정에 의한 납부연기의 신청은 별지 제10호서식에 의한다.\n②시장ㆍ군수가 제1항의 규정에 의한 신청에 대하여 납부연기허가를 결정한 때에는 별지 제11호서식의 납부연기허가서를 교부하여야 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0011"
@@ -167,7 +187,7 @@
         "article_title": "분할납부신청서등",
         "chapter": "",
         "content": "제12조 (분할납부신청서등)\n①영 제19조의 규정에 의한 분할납부의 신청은 별지 제12호서식에 의한다.\n②시장ㆍ군수가 영 제19조의 규정에 의하여 분할납부허가를 결정한 때에는 별지 제13호서식의 분할납부허가서를 교부하여야 한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0012"
@@ -177,7 +197,7 @@
         "article_title": "독촉장",
         "chapter": "",
         "content": "제13조 (독촉장) 법 제18조의 규정에 의한 독촉장은 별지 제14호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0013"
@@ -186,8 +206,8 @@
         "article_no": "제14조",
         "article_title": "개발비용산출내역서",
         "chapter": "",
-        "content": "제14조 (개발비용산출내역서) 법 제20조의 규정에 의하여 개발비용의 산정에 필요한 내역서를 제출하고자 하는 자는 준공인가등을 받은 날부터 15일이내에 별지 제15호서식에 의하여 이를 작성ㆍ제출하여야 한다.",
-        "enforcement_date": "19900302",
+        "content": "제14조 (개발비용산출내역서) 법 제20조의 규정에 의하여 개발비용의 산정에 필요한 내역서를 제출하고자 하는 자는 준공인가등을 받은 날부터 25일이내에 별지 제15호서식에 의하여 이를 작성ㆍ제출하여야 한다. <개정 1991.11.29>",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0014"
@@ -197,7 +217,7 @@
         "article_title": "자료의 통보등",
         "chapter": "",
         "content": "제15조 (자료의 통보등)\n①법 제21조제1항의 규정에 의한 인가등의 통보는 별지 제16호서식에 의한다.\n②제1항의 규정에 의하여 통보한 사항이 변경된 때에는 15일이내에 별지 제17호서식에 의하여 변경사실을 통보하여야 한다.\n③법 제21조제2항의 규정에 의한 개발부담금부과통보는 별지 제18호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0015"
@@ -207,7 +227,7 @@
         "article_title": "위임사항의 처리보고",
         "chapter": "",
         "content": "제16조 (위임사항의 처리보고) 영 제21조제4항의 규정에 의한 월별 개발부담금의 부과ㆍ징수실적 및 납입ㆍ물납실적의 보고는 각각 별지 제19호서식 및 별지 제20호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0016"
@@ -217,7 +237,7 @@
         "article_title": "과태료납입고지서",
         "chapter": "",
         "content": "제17조 (과태료납입고지서) 영 제22조제1항의 규정에 의한 과태료납부고지서는 세입징수관사무처리규칙 별지 제1호서식에 의한다.",
-        "enforcement_date": "19900302",
+        "enforcement_date": "19911129",
         "relations": [],
         "images": [],
         "provision_id": "law:개발이익환수에관한법률시행규칙#JO0017"
@@ -230,39 +250,135 @@
       "promulgation_no": "00462",
       "addendum_key": "1990030200462",
       "content": "부칙 <제462호,1990.3.2>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "19911129",
+      "promulgation_no": "00495",
+      "addendum_key": "1991112900495",
+      "content": "부칙 <제495호,1991.11.29>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [
     {
       "no": "0001",
       "branch": "00",
-      "kind": "서식",
-      "title": "거래가격신고서",
-      "enforcement_date": "19900302",
-      "content": "[별지 제1호서식]\n(앞 면)\n거 래 가 격 신 고 서\n처 리 기 간\n2 일\n\n신고인\n①성 명\n(한글)\n\n②주민등록번호\n\n(한문)\n\n\n②상 호\n\n④전화번호\n\n③사무소소재지 또는 주소\n\n신 고 내 용\n⑥대상사업명\n⑦근거법률\n⑧매입가격신고토지\n지번\n지목\n면적\n매입가격\n매입처\n매입방법\n계\n개발이익환수에관한법률시행규칙 제4조의 규정에 의하여 위와 같이 신고합니다.\n년      월      일\n신고인            서명  또는    (인)\n시장·군수   귀하\n구비서류 : 1. 지번별 면적 및 매입가격명세\n2. 매입증서 사본\n3.등기부등본\n수수료\n없 음\n30302-07811 민\n90.2승인\n190㎜×268㎜\n(신문용지54g/㎡)\n이 신청서는 다음과 같이 처리됩니다.\n(뒷 면)\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
+      "kind": "별표",
+      "title": "유원지설치사업및공원사업의경우개발부담금부과대상시설[제3조의2제1항관련]",
+      "enforcement_date": "19911129",
+      "content": "[별표1]<신설 1991.11.29.>\n유원지설치사업 및 공원사업의 경우 개발부담금 부과대상시설(제3조의2제1항관련)\n구분\n유원지 설치사업\n공원사업\n근거\n도시계획법 제12조제3항(도시계획시설기준에관한규칙 제48조 제1항제4호)\n자연공원법 제2조제7호\n도시공원법 제2조제2호\n부과\n대상\n시설\n·유희시설\n·골프연습장\n·휴게실·숙박시설(유스호스텔을 제외한다)\n·식당 및 경마장\n·건축법시행령 부표 제12항의 규정에 의한 휴양콘도미니엄.\n·유희시설\n·골프연습장\n·대중음식점",
       "is_file_only": false,
-      "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579897",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=35412&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695187",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579895",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695185",
+          "name": "유원지설치사업및공원사업의경우개발부담금부과대상시설[제3조의2제1항관련]"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695187",
+          "name": "유원지설치사업및공원사업의경우개발부담금부과대상시설[제3조의2제1항관련]"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695189",
+          "name": "000100110201_P1_19911129.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:개발이익환수에관한법률시행규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "토지형질변경허가·산림훼손허가·농지전용허가또는초지전용허가를받아시행하는사업의경우개발부담금부과대상시설[제3조의2제3항관련]",
+      "enforcement_date": "19911129",
+      "content": "[별표 2]<신설 1991.11.29.>\n토지형질변경허가·산림훼손허가·농지전용허가 또는 초지전용허가를 받아 시행하는 사업의 경우 개발부담금 부과대상시설(제3조의2제3항관련)\n구             분\n부 과 대 상 시 설\n·일반건축물을 건축하는 경우\n·공장용건축물을 건축하는 경우\n·그밖의 시설을 설치하는 경우\n·건축법시행령 부표 제1항 내지 제4항 및 제11항제2호의 규정에 의한 단독주택·공동주택·기숙사·근린생활시설 및 일반업무시설\n·건축법시행령 부표 제12항·제14항·제15항 및 제30항의 규정에 의한 숙박시설(유스호스텔을 제외한다)·위락시설·관람집회시설 및 관광휴게시설\n·건축법시행령 부표 제13항·제18항 및 제19항제1호의 규정에 의한 시외버스정류장·화물자동차정류장 및 자동차관련시설\n·건축법시행령 부표 제20항제1호 및 제2호와 제21항의 규정에 의한 시외버스정류장·화물자동차정류장 및 자동차관련시설\n·건축1법시행령 부표 제17항의 규정에 의한 공장\n·체육시설의설치·이용에관한법률시행규칙 별표1의 규정에 의한 골프장업 및 골프연습장업시설",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=35412&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695193",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695191",
+          "name": "토지형질변경허가·산림훼손허가·농지전용허가또는초지전용허가를받아시행하는사업의경우개발부담금부과대상시설[제3조의2제3항관련]"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695193",
+          "name": "토지형질변경허가·산림훼손허가·농지전용허가또는초지전용허가를받아시행하는사업의경우개발부담금부과대상시설[제3조의2제3항관련]"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695195",
+          "name": "000200110201_P1_19911129.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:개발이익환수에관한법률시행규칙#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "개발사업의준공전완료의경우개발부담금부과대상토지면적[제3조의3관련]",
+      "enforcement_date": "19911129",
+      "content": "[별표 3]<신설 1991.11.29>\n개발사업의 준공전 완료의 경우 개발부담금 부과대상토지면적(제3조의3관련)\n건   축   물\n부 과 대 상 토 지 면 적\n공장외건축물\n도시계획구역\n·전용주거지역 : 건축물바닥면적의 5배\n·중심상업지역·일반상업지역·근린상업지역·준주거지역 : 건축물 바닥면적의 3배\n·일반주거지역·일반공업지역·준공업지역·전용공업지역 : 건축물 바닥면적의 4배\n·자연녹지지역·생산녹지지역·보전녹지지역 : 건축물바닥면적의 7배\n·지역의 지정이 없는 지역 : 건축물바닥면적의 4배\n도시계획구역외의 지역\n·건축물바닥면적의 7배\n공장용건축물\n·지방세법시행령 제84조의4제3항제6호의 규정에 의한 공장입지기준면적",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=35412&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695199",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695197",
+          "name": "개발사업의준공전완료의경우개발부담금부과대상토지면적[제3조의3관련]"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695199",
+          "name": "개발사업의준공전완료의경우개발부담금부과대상토지면적[제3조의3관련]"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695201",
+          "name": "000300110201_P1_19911129.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:개발이익환수에관한법률시행규칙#BYL0003"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "거래가격신고서",
+      "enforcement_date": "19911129",
+      "content": "[별지 제1호서식]\n(앞 면)\n거 래 가 격 신 고 서\n처 리 기 간\n2 일\n\n신고인\n①성 명\n(한글)\n\n②주민등록번호\n\n(한문)\n\n\n②상 호\n\n④전화번호\n\n③사무소소재지 또는 주소\n\n신 고 내 용\n⑥대상사업명\n⑦근거법률\n⑧매입가격신고토지\n지번\n지목\n면적\n매입가격\n매입처\n매입방법\n계\n개발이익환수에관한법률시행규칙 제4조의 규정에 의하여 위와 같이 신고합니다.\n년      월      일\n신고인            서명  또는    (인)\n시장·군수   귀하\n구비서류 : 1. 지번별 면적 및 매입가격명세\n2. 매입증서 사본\n3.등기부등본\n수수료\n없 음\n30302-07811 민\n90.2승인\n190㎜×268㎜\n(신문용지54g/㎡)\n이 신청서는 다음과 같이 처리됩니다.\n(뒷 면)\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695205",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695203",
           "name": "거래가격신고서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579897",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695205",
           "name": "거래가격신고서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579899",
-          "name": "000100110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695207",
+          "name": "000100110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579901",
-          "name": "000100110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695209",
+          "name": "000100110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -273,26 +389,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금예정통지서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제2호서식]\n개  발  부  담  금  예  정  통  지  서\t\t제\t호\n납부의무자\n①성       명\n(한글)\n②주민등록번호\n(한문)\n③상       호\n④전 화 번 호\n⑤사무소소재지 또는 주소\n\n예 정 통 지 내 용\n⑥대상 사업명\n⑦근 거 법 률\n⑧부과예정금액\n⑨부 과 기 준\n⑩기 타 사 항\n본 통지내용의 이의신청은 15일이내 임.\n개발이익환수에관한법률시행령 제13조제2항의 규정에 의하여 상기와 같이 개발부담금부과예정금액을 통지합니다.\n년     월     일\n시장·군수\t\t[인]\n귀하\n30302-07911 일\n90.2.26 승인\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579905",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695213",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579903",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695211",
           "name": "개발부담금예정통지서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579905",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695213",
           "name": "개발부담금예정통지서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579907",
-          "name": "000200110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695215",
+          "name": "000200110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -303,31 +419,31 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금고지전심사청구서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제3호서식]\n(앞 면)\n개 발 부 담 금 고 지 전 심 사 청 구 서\n\n처 리 기 간\n20 일\n신청인\n①성       명\n(한글)\n②주민등록번호\n\n\n(한문)\n②상       호\n\n④전 화  번 호\n\n③사무소소재지 또는 주소\n\n심    사    청    구     내     용\n⑥대상사업명\n⑦근거법률\n⑧부과예정금액\n⑨부과기준\n⑩심사청구사유\n개발이익환수에관한법률시행령 제14조제2항의 규정에 의하여 위와 같이 심사청구합니다.\n년      월      일\n신고인\t\t서명  또는    (인)\n시장·군수 귀하\n구비서류 : 1. 대상토지명세\n2. 관계증빙서류 또는 증거물\n수수료\n없 음\n30302-08011 민\n90.2.26. 승인\n이 신청서는 다음과 같이 처리됩니다 :\n190㎜×268㎜\n(신문용지54g/㎡)\n이 신청서는 다음과 같이 처리됩니다.\n(뒷 면)\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n전문가자문\n▼\n결재\n▼\n원부기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579911",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695219",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579909",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695217",
           "name": "개발부담금고지전심사청구서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579911",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695219",
           "name": "개발부담금고지전심사청구서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579913",
-          "name": "000300110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695221",
+          "name": "000300110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579915",
-          "name": "000300110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695223",
+          "name": "000300110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -338,26 +454,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "심사청구결과통지서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제4호서식]\n심  사  청  구  결  과  통  지  서\t\t\t제     호\n납부의무자\n①성 명\n(한글)\n②주민등록번호\n(한문)\n②상 호\n\n④전 화 번 호\n\n③사무소소재지 또는 주소\n\n심  사  결  과  통  지  내  용\n⑥대상 사업명\n⑦근 거 법 률\n⑧심 사 결 과\n구    분\n예정통지내역\n심사결과\n사    유\n부담금액\n부과기준\n대상토지 명세\n별 첨\n개발이익환수에관한법률시행령 제14조제3항의 규정에 의하여 상기와 같이 개발부담금부과 고지전 심사결과를 통지합니다.\n년      월      일\n시장·군수   [인]\n귀하\n30302-08111 일\n90.2.26. 승인\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579919",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695227",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579917",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695225",
           "name": "심사청구결과통지서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579919",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695227",
           "name": "심사청구결과통지서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579921",
-          "name": "000400110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695229",
+          "name": "000400110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -368,41 +484,41 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금납부고지서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제5호서식]\n(앞 면)\n(뒷 면)\n납부고지서(부본)\n관리번호\n대상사업명\n납부자주소\n납부자성명(대표자)\n부담금액\n(납기내)\n가산금\n납기후\n월 일 까지 납부할 금액\n납부장소\n위 금액을      년    월    일   까지\n납부장소에 납부(납입)하시기 바랍니다.\n년    월    일\n시장·군수     [인]\n귀하\n30302-08211 일\n90.2.26 승인\n(앞 면)\n(뒷 면)\n개 발 부 담 금\n납입고지(통지)서\n산     출     근     거\n관리번호\n1. 근거법령 · 개발이익환수에관한법률 제  조  항\n· 개발이익환수에관한법률 시행령 제  조\n· 개발이익환수에관한법률 시행규칙 제 조\n2. 산출방법\n· 완료시점가액\n· 착수시점가액\n· 개발비용\n· 기타비용\n3. 물납허가시\n· 물납가액\n4. 정산에 관한 사항\n대상사업명\n납부자주소\n납부자성명(대표자)\n부담금액\n(납기내)\n가산금\n납기후\n월 일 까지 납부할 금액\n납부장소\n위 금액을      년    월    일   까지\n납부장소에 납부(납입)하시기 바랍니다.\n년    월    일\n시장·군수   [인]\n귀하\n·산출근거 : 뒷면참조\n380㎜×268㎜\n각편  95㎜×268㎜\n인쇄(2급)60g/㎡\n(앞 면)\n(뒷 면)\n납 입 통 지 서\n관리  번호\n대상사업명\n납부자주소\n납부자성명(대표자)\n부담금액\n(납기내)\n가산금\n납기후\n월 일 까지 납부할 금액\n납부장소\n위 금액을 영수하였기에 통지합니다\n년    월    일\n수납기관        [인]\n시장·군수  귀하\n(앞 면)\n(뒷 면)\n납 부 영 수 증 서\n관리번호\n대상사업명\n납부자주소\n납부자성명(대표자)\n부담금액\n(납기내)\n가산금\n납기후\n월 일 까지 납부할 금액\n납부장소\n위 금액을 영수합니다.\n년    월    일\n수납기관        [인]\n귀하\n380㎜×268㎜\n95㎜×268㎜\n인쇄(2급)60g/㎡",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579925",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695233",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579923",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695231",
           "name": "개발부담금납부고지서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579925",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695233",
           "name": "개발부담금납부고지서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579927",
-          "name": "000500110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695235",
+          "name": "000500110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579929",
-          "name": "000500110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695237",
+          "name": "000500110202_P2_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579931",
-          "name": "000500110202_P3_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695239",
+          "name": "000500110202_P3_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579933",
-          "name": "000500110202_P4_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695241",
+          "name": "000500110202_P4_19911129.gif"
         }
       ],
       "images": [],
@@ -413,26 +529,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "납부고지정정통지서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제6호서식]\n납   부   고   지   정   정   통   지   서\t\t제     호\n납부의무자\n①성       명\n(한글)\n②주민등록번호\n(한문)\n③상       호\n④전 화 번 호\n⑤사무소소재지 또는 주소\n정 정 통 지 내 용\n⑥대상 사업명\n⑦근 거 법 률\n⑧정 정 내 용\n구    분\n당초고지사항\n정 정 내 용\n사    유\n개발이익환수에관한법률시행령 제17조의 규정에 의하여        년       월       일 납부고지한 개발부담금부과고지내용중 상기와 같이 정정통지합니다.\n년     월     일\n시장·군수     [인]\n귀하\n30302-08311 일\n90.2.26 승인\n190㎜×268㎜\n(신문용지 54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579937",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695245",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579935",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695243",
           "name": "납부고지정정통지서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579937",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695245",
           "name": "납부고지정정통지서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579939",
-          "name": "000600110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695247",
+          "name": "000600110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -443,41 +559,41 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금부과징수대장[원부]",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제7호서식]\n(제1면)\n개발부담금부과징수대장(원부)\n기록자\n담당\n1. 개발사업에 관한 사항\n사    업    명\n위           치\n면       적(㎡)\n시  행  기  간\n사업시행\n근거법률\n인허가  행정청\n인  허  가  일\n통 보 일\n2. 사업시행자에 관한 사항\n성    명(대표자)\n(한글)\n주민등록번호\n(한문)\n상       호\n전 화 번 호\n사무소 소재지 또는 주소\n3. 사업 또는 시행자에 관한 변경사항\n구  분\n변경내용\n변경연월일\n구  분\n변경내용\n변경연월일\n30302-08421 비\n90.2.26승인\n268㎜×380㎜\n(인쇄용지(특급)120g/㎡)\n(제2면)\n4. 부담금부과 결정에 관한 사항\n구      분\n최      종\n일부준공, 사용개시, 처분 등\n완료시점\n준 공 일\n면    적\n공시지가\n토지가액\n산정방법\n비용내역\n총    액\n순공사비\n조 사 비\n설 계 비\n일반관리비\n기타 경비\n정상지가 상승분\n가    액\n산정방법\n착수시점\n착 수 일\n면    적\n공시지가\n가    액\n산정방법\n부과징수 결정내용\n예정농지가액\n결정가액\n사    유\n결정일자\n고지일자\n정정등 기타사유기재\n구  분\n발생일자\n사  유\n구  분\n발생일자\n사  유\n(제3면)\n5. 매입가격(거래가격)에 관한 사항\n신고일\n확정일\n신고내용\n지  번\n지  목\n면  적\n매입가격\n매입처\n매입방법\n확인가격\n계\n6. 연납에 관한 사항\n신청일\n허가일\n사  유\n연납기한\n7. 분할납부에 관한 사항\n신청일\n허가일\n사  유\n분납허가내용\n납부연월일\n개발부담금\n이자금액\n납부하여야 할 부담금\n1차\n.      .\n2차\n.      .\n3차\n.      .\n4차\n.      .\n5차\n.      .\n30302-08421 비\n90.2.26승인\n268㎜×380㎜\n(인쇄용지(특급)120g/㎡)\n(제4면)\n8. 물납에 관한 사항\n신 청 일\n허가일\n사    유\n납부가액\n물납토지\n지  번\n지  목\n면  적\n신고가액\n확인가액\n계\n차    액\n9. 납부독촉에 관한 사항\n1차독촉일\n사  유\n2차독촉일\n사  유\n10. 과태료에 관한 사항\n고지일\n과태료금액\n사     유\n최초작성          년       월       일\n작성자:         직       성명             (인)\n시장·군수·구청장           [인]",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579943",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695251",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579941",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695249",
           "name": "개발부담금부과징수대장[원부]"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579943",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695251",
           "name": "개발부담금부과징수대장[원부]"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579945",
-          "name": "000700110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695253",
+          "name": "000700110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579947",
-          "name": "000700110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695255",
+          "name": "000700110202_P2_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579949",
-          "name": "000700110202_P3_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695257",
+          "name": "000700110202_P3_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579951",
-          "name": "000700110202_P4_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695259",
+          "name": "000700110202_P4_19911129.gif"
         }
       ],
       "images": [],
@@ -488,31 +604,31 @@
       "branch": "00",
       "kind": "서식",
       "title": "물납신청서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제8호서식]\n(앞 면)\n물 납 신 청 서\n처 리 기 간\n7일\n신청인\n①성       명\n(한글)\n②주민등록번호\n(한문)\n②상       호\n\n④전화번호\n\n③사무소소재지 또 는 주 소\n\n신   고   내   용\n⑥대상사업명\n⑦근거법률\n⑧물납토지\n지번\n지목\n면적\n가액\n지번\n지목\n면적\n가액\n계\n⑨부담금액\n⑩차액\n개발이익환수에관한법률시행령 제0조의 규정에 의하여 위와 같이 신청합니다.\n년      월      일\n신고인\t\t서명  또는    (인)\n시장·군수·  귀하\n구비서류\n1. 물납토지 등기부등본 및 소유관계 증빙서류\n2. 물납토지가액 산출근거      3. 차액산정근거\n수수료\n없 음\n30302-08511 민\n90.2.26 승인\n이 신청서는 다음과 같이 처리됩니다\n190㎜×268㎜\n(신문용지54g/㎡)\n(뒷 면)\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579955",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695263",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579953",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695261",
           "name": "물납신청서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579955",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695263",
           "name": "물납신청서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579957",
-          "name": "000800110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695265",
+          "name": "000800110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579959",
-          "name": "000800110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695267",
+          "name": "000800110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -523,26 +639,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "물납허가서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제9호서식]\n제\t호\n물  납  허  가  서\n신\n청\n인\n①성        명\n(한글)\n②주민등록  번    호\n(한문)\n③상        호\n④전화번호\n⑤사무소소재지 또는 주소\n허      가      내      용\n⑥대상사업명\n⑦근거법률\n⑧물납허가토지\n지  번\n지  목\n면  적\n가  액\n지    번\n지  목\n면  적\n가  액\n계\n⑨부담금액\n⑩차 액\n개발이익환수에관한법률시행령  제18조의 규정에 의하여 위와 같이 허가합니다.\n년        월        일\n시장·군수           [인]\n귀하\n30302-08611일\n90.2.26 승인\n190㎜×268㎜\n(신문용지 54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579963",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695271",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579961",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695269",
           "name": "물납허가서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579963",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695271",
           "name": "물납허가서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579965",
-          "name": "000900110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695273",
+          "name": "000900110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -553,31 +669,31 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금납부연기신청서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제10호서식]\n(앞  면)\n개 발 부 담 금 납 부 연 기   신 청 서\n처리기간\n7일\n신청인\n①성        명\n(한글)\n②주민등록번호\n(한문)\n③상        호\n④전 화  번 호\n⑤사무소소재지 또는 주소\n신    청    내    용\n⑥대상사업명\n⑦근거 법률\n⑧부과 금액\n⑨납부 기일\n⑩연기희망일\n⑪연기 사유\n개발이익환수에관한법률시행규칙 제11조의 규정에 의하여 위와 같이 납부를 연기코자 합니다.\n년        월        일\n신고인        서명  또는  (인)\n시장·군수  귀하\n구비서류 : 연기사유를 증빙할 수 있는 자료\n수 수 료\n없    음\n30302-08711민\n90.2.26 승인\n190㎜×268㎜\n(신문용지 54g/㎡)\n(뒷 면)\n이 신청서는 다음과 같이 처리됩니다.\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579969",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695277",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579967",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695275",
           "name": "개발부담금납부연기신청서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579969",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695277",
           "name": "개발부담금납부연기신청서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579971",
-          "name": "001000110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695279",
+          "name": "001000110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579973",
-          "name": "001000110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695281",
+          "name": "001000110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -588,26 +704,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금납부연기허가서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제11호서식]\n제\t호\n개발부담금 납부연기신청서\n신\n청\n인\n①성        명\n(한글)\n②주민등록번호\n(한문)\n③상        호\n④전 화 번 호\n⑤사무소소재지 또는 주소\n허 가 내 용\n⑥대상사업명\n⑦근거 법률\n⑧부과 금액\n⑨당초납부기일\n⑩연납허가일\n개발이익환수에관한법률시행령 제19조의 규정에 의하여 위와 같이 납부의 연기를 허가 합니다.\n년       월       일\n시장·군수      [인]\n귀하\n30302-08811 일\n90.2.26 승인\n190㎜×268㎜\n(신문용지 54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579977",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695285",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579975",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695283",
           "name": "개발부담금납부연기허가서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579977",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695285",
           "name": "개발부담금납부연기허가서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579979",
-          "name": "001100110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695287",
+          "name": "001100110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -618,31 +734,31 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금분할납부신청서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제12호서식]\n(앞 면)\n개 발 부 담 금 분 할 납 부 신 청 서\n처 리 기 간\n7 일\n신청인\n①성 명\n(한글)\n②주민등록번호\n\n(한문)\n③상 호\n\n④전화번호\n\n⑤사무소소재지 또는 주소\n\n신 청 내 용\n⑥대상사업명\n⑦근거법률\n⑧부과금액\n⑨납부기일\n⑩분납희망일\n.    .\n.    .\n.    .\n.    .\n⑪분납금액\n⑫분납사유\n개발이익환수에관한법률시행령 제12조의 규정에 의하여 위와 같이 분할납부코자 신청합니다.\n년      월      일\n신고인\t\t서명  또는    (인)\n시장·군수 귀하\n구비서류 : 분납사유를 증빙할 수 있는 자료\n수수료\n없 음\n30302-08911 민\n90.2.26. 승인\n이 신청서는 다음과 같이 처리됩니다 :\n190㎜×268㎜\n(신문용지54g/㎡)\n이 신청서는 다음과 같이 처리됩니다.\n(뒷 면)\n신청인\n경유기관\n처리기관\n없음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579983",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695291",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579981",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695289",
           "name": "개발부담금분할납부신청서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579983",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695291",
           "name": "개발부담금분할납부신청서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579985",
-          "name": "001200110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695293",
+          "name": "001200110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579987",
-          "name": "001200110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695295",
+          "name": "001200110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -653,26 +769,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금분할납부허가서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제13호서식]\n제\t호\n개 발 부 담 금 분 할 납 부 허 가 서\n신청인\n①성      명\n(한글)\n② 주민등록번호\n\n(한문)\n③상      호\n\n④전화번호\n\n⑤사무소 소재지 또는 주소\n\n허 가 내 용\n⑥대상사업명\n⑦근거법률\n⑧부과금액\n⑨ 당초납부기일\n⑩분할납부허가내용\n납 부 연 월 일\n개 발 부 담 금\n이 자 금 액\n납 부 할 금 액\n개발이익환수에관한법률시행령 제19조의 규정에 의하여 위와 같이 분할납부를 허가 합니다.\n년      월      일\n시장·군수      [인]\n귀하\n30302-09011 일\n90.2.26. 승인\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579991",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695299",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579989",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695297",
           "name": "개발부담금분할납부허가서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579991",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695299",
           "name": "개발부담금분할납부허가서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579993",
-          "name": "001300110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695301",
+          "name": "001300110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -683,26 +799,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "독촉장",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제14호서식]\n제\t호\n독    촉    장\n납부의무자\n①성        명\n(한글)\n②주민등록  번    호\n(한문)\n③상        호\n④전화번호\n⑤사무소소재지 또는 주소\n독    촉    내    용\n⑥대상 사업명\n⑦근 거 법 률\n⑧부 과 금 액\n⑨납 부 장 소\n상기 개발부담금을    년    월   일까지 상기 납부장소에 납부하지 아니할경우에는 개발이익환수에관한법률 제18조의 국세징수법 체납처분의 예에 의하여 귀하의 재산을 압류하게 됨을 통보하니 착오없으시기 바랍니다.\n년      월      일\n시장·군수             [인]\n귀하\n30302-09111일\n90.2.26 승인\n190㎜×268㎜\n(신문용지 54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579997",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695305",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579995",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695303",
           "name": "독촉장"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579997",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695305",
           "name": "독촉장"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85579999",
-          "name": "001400110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695307",
+          "name": "001400110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -713,31 +829,31 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발비용산출내역서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제15호서식]\n(앞 면)\n개발비용 산출내역서\n처리기간\n7일\n신청인\n① 성      명\n(한글)\n② 주민등록번호\n\n(한문)\n③ 상      호\n\n④ 전 화 번 호\n\n⑤ 사무소소재지 또는  주소\n\n신 청 내 용\n⑥ 대상사업명\n⑦ 근거법률\n⑧ 완료시점가액총액\n⑨착수시점 가액총액\n⑩ 개발비용내역\n순공사비\n조사비\n설계비\n일반관리비\n기타경비\n기타공제\n비용총액\n개발이익환수에관한법률시행령 제20조2항 및 동법시행규칙 제14조의 규정에 의하여 위와 같이 신고합니다.\n년      월      일\n신고인            서명  또는    (인)\n시장·군수 귀하\n구비서류 : 1. 개발비용 산출기초자료\n2. 기타 관계증빙자료\n수수료\n없  음\n30302-09211 일\n90.2.26. 승인\n190㎜×268㎜\n(신문용지54g/㎡)\n이 신청서는 다음과 같이 처리됩니다.\n(뒷 면)\n신청인\n경유기관\n처리기관\n없   음\n시군구 토지관리담당\n신청서작성\n▶\n접수\n▲\n▼\n검토\n▼\n결재\n▼\n원부기재",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580003",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695311",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580001",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695309",
           "name": "개발비용산출내역서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580003",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695311",
           "name": "개발비용산출내역서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580005",
-          "name": "001500110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695313",
+          "name": "001500110202_P1_19911129.gif"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580007",
-          "name": "001500110202_P2_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695315",
+          "name": "001500110202_P2_19911129.gif"
         }
       ],
       "images": [],
@@ -748,26 +864,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발사업인가등사실통보",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제16호서식]\n(행 정 기 관 명)\n분류기호 및\n문 서 번 호 :\n.      .      .\n수       신 : 시장·군수\n발신 :\n제       목 : 개발사업인가등 사실통보\n개발이익환수에관한법률 제21조제1항 및 동법시행규칙 제15조의 규정에 의하여 개발사업인허가 사항을 통보합니다.\n개발사업인허가 내역\n사   업  명\n근 거 법 률\n사  업  면  적(㎡)\n인 허  가  일  자\n사업시행자\n주민등록번호\n성        명\n(한    문)\n상        호\n주        소\n전 화 번 호\n사 업 시 행 기 간\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580011",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695319",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580009",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695317",
           "name": "개발사업인가등사실통보"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580011",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695319",
           "name": "개발사업인가등사실통보"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580013",
-          "name": "001600110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695321",
+          "name": "001600110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -778,26 +894,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발사업인가변경통보",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제17호서식]\n(행 정 기 관 명)\n.      .      .\n분류기호 및\n문 서 번 호 :\n수       신 : 시장·군수                           발신 :\n제       목 : 개발사업인가 변경통보개발이익환수에관한법률 제21조제1항 및 동법시행규칙 제15조의 규정에 의하여 기통보한 개발사업인허가사항의 변경사항을 아래와 같이 통보합니다.\n당초개발사업인허가 내역\n사      업     명\n근   거   법   률\n사  업  면  적(㎡)\n인 허  가  일  자\n개발사업시행 변경내역\n구    분\n당        초\n변        경\n사        유\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580017",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695325",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580015",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695323",
           "name": "개발사업인가변경통보"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580017",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695325",
           "name": "개발사업인가변경통보"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580019",
-          "name": "001700110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695327",
+          "name": "001700110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -808,26 +924,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금부과통보",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제18호서식]\n(행 정 기 관 명)\n분류기호 및\n문 서 번 호 :\n.      .      .\n수       신 : 국세청장\n발신 : 시장·군수\n제       목 : 개발부담금부과 통보\n개발이익환수에관한법률 제21조제2항의 규정에 의하여 개발부담금을 부과하고 그 사실을 아래와 같이 통보합니다.\n개발부담금 부과내역\n사   업  명\n근 거 법 률\n납부의무자\n성      명\n(한글)\n주민등록\n번    호\n(한문)\n상      호\n사무소소재지\n대 상 사 업\n사  업  명\n위      치\n면      적\n부 과 금 액\n납 부 기 한\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580023",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695331",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580021",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695329",
           "name": "개발부담금부과통보"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580023",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695331",
           "name": "개발부담금부과통보"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580025",
-          "name": "001800110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695333",
+          "name": "001800110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -838,26 +954,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금부과·징수실적보고서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제19호서식]\n(행 정 기 관 명)\n분류기호 및\n문 서 번 호 :\n.      .      .\n수       신 : 건설부장관\n경       유 : 시·도지사\n발신 : 시장·군수\n(  )월분 개발부담금부과·징수실적 보고서\n번호\n사 업 명\n납   부   의   무   자\n부과금액\n부과일\n납부금액\n납부일자\n성명\n주   소\n주민등록번     호\n계\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580029",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695337",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580027",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695335",
           "name": "개발부담금부과·징수실적보고서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695337",
           "name": "개발부담금부과·징수실적보고서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580031",
-          "name": "001900110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695339",
+          "name": "001900110202_P1_19911129.gif"
         }
       ],
       "images": [],
@@ -868,26 +984,26 @@
       "branch": "00",
       "kind": "서식",
       "title": "개발부담금납입·물납실적보고서",
-      "enforcement_date": "19900302",
+      "enforcement_date": "19911129",
       "content": "[별지 제20호서식]\n(행 정 기 관 명)\n분류기호 및\n문 서 번 호 :\n수       신 : 건설부장관\n경       유 : 시·도지사\n발신 : 시장·군수\n(    )월분 개발부담금 납입·물납실적 보고서\n번호\n사업명\n납 입 의 무 자\n부과 금액\n징수 금액\n특별회계납입\n정산신청금액\n성명\n주소\n주민등록번    호\n현 금\n물 납\n계\n· 첨부 : 물납토지 내역서 및 관계서류\n190㎜×268㎜\n(신문용지54g/㎡)",
       "is_file_only": false,
       "view_url": "",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580035",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695343",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580033",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695341",
           "name": "개발부담금납입·물납실적보고서"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580035",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695343",
           "name": "개발부담금납입·물납실적보고서"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85580037",
-          "name": "002000110202_P1_19900302.gif"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=85695345",
+          "name": "002000110202_P1_19911129.gif"
         }
       ],
       "images": [],
