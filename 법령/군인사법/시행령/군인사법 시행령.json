@@ -1,11 +1,11 @@
 {
   "law_id": "003026",
-  "mst": "141080",
-  "version_uid": "003026:141080:20130611",
+  "mst": "141078",
+  "version_uid": "003026:141078:20130611",
   "law_name": "군인사법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "24580",
+  "promulgation_no": "24579",
   "promulgation_date": "20130611",
   "enforcement_date": "20130611",
   "revision_date": "20130611",
@@ -14,7 +14,7 @@
   "is_future": false,
   "basic_info": {
     "법령명_한글": "군인사법 시행령",
-    "공포번호": "24580",
+    "공포번호": "24579",
     "전화번호": "02-748-6833",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -75,8 +75,8 @@
     "공포일자": "20130611",
     "편장절관": "13020101"
   },
-  "amendment_text": "⊙대통령령 제24580호(2013.6.11)\n공군방공포병사령부령 전부개정령\n공군방공포병사령부령 전부를 다음과 같이 개정한다.\n공군방공유도탄사령부령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 군인사법 시행령 일부를 다음과 같이 개정한다.\n제13조제1항제1호다목 중 \"공군방공포병사령관\"을 \"공군방공유도탄사령관,\"으로 한다.\n제14조제1항제3호가목 및 나목 중 \"방공포병부대\"를 각각 \"방공유도탄부대\"로 한다.\n별표 1의 공군의 직위란 중 \"공군방공포병사령관\"을 \"공군방공유도탄사령관\"으로 한다.",
-  "revision_reason": "[전부개정]\n◇ 개정이유 및 주요내용\n영공 및 주요 군사 시설의 지대공(地對空) 방어를 위한 주요 무기체계가 방공포에서 지대공 유도탄으로 변화됨에 따라 공군방공포병사령부의 명칭을 공군방공유도탄사령부로 변경하는 한편,\n사령관에게 관할구역 내에서 군 풍기 유지ㆍ단속을 하는 권한과 긴급한 조치가 필요한 경우 예속부대 또는 배속부대가 아닌 부대를 일시적으로 지휘ㆍ감독할 수 있는 권한을 부여하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제24579호(2013.6.11)\n공군방공관제단령 전부개정령\n공군방공관제단령 전부를 다음과 같이 개정한다.\n공군방공관제사령부령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 군인사법 시행령 일부를 다음과 같이 개정한다.\n제13조제1항제1호다목 중 \"및 공군전투비행단장\"을 \"공군방공관제사령관 및 공군전투비행단장\"으로 한다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유 및 주요내용\n공군방공관제단의 규모와 위상 등을 고려하여 그 명칭을 공군방공관제사령부로 변경하고, 사령관으로 하여금 긴급한 조치가 필요한 경우에는 예속부대 또는 배속부대가 아닌 부대를 일시적으로 지휘ㆍ감독할 수 있도록 하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 94,
@@ -1553,22 +1553,22 @@
       "enforcement_date": "20130611",
       "content": "[별표 1] <개정 2013.6.11>\n\n임기제 진급 대상 직위(제25조의2제1항 관련)\n\n┌───┬───────────────────────────────┐\n│각 군 │직 위                                                         │\n├───┼───────────────────────────────┤\n│육 군 │ㆍ국군기무사령관               ㆍ합동참모본부 지휘통신참모부장│\n│      │ㆍ국군기무사령부 참모장        ㆍ국군기무사령부 제100부대장   │\n│      │ㆍ국군기무사령부 제101부대장   ㆍ육군사관학교 교수부장        │\n│      │ㆍ국방시설본부장               ㆍ국군의무사령관               │\n├───┼───────────────────────────────┤\n│해 군 │ㆍ국군기무사령부 제102부대장  ㆍ해군본부 감찰실장             │\n│      │ㆍ해군본부 해병보좌관         ㆍ해군본부 작전훈련처장         │\n├───┼───────────────────────────────┤\n│공 군 │ㆍ국군기무사령부 제103부대장 ㆍ공군군수사령부 군수관리단장    │\n│      │ㆍ공군방공유도탄사령관          ㆍ방위사업청 국제계약부장     │\n└───┴───────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141080&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562601",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141078&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567535",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562599",
-          "name": "law0030262013061124580KC_000100E_20130611.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567533",
+          "name": "law0030262013061124579KC_000100E_20130611.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562601",
-          "name": "law0030262013061124580KC_000100E_20130611.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567535",
+          "name": "law0030262013061124579KC_000100E_20130611.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562603",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567537",
           "name": "000100110201_P1_20130611.gif"
         }
       ],
@@ -1583,22 +1583,22 @@
       "enforcement_date": "20130611",
       "content": "[별표 2] <개정 2012.1.31>\n\n정밀장비 기술자의 범위(제44조제1항 관련)\n\n┌─────────────────────────────────────┐\n│  1. 토(tow)ㆍ벌컨ㆍ엘리콘ㆍ전차ㆍ자주포ㆍ호크ㆍ나이키 및 이에 준하는 특수│\n│장비의 정비기술자                                                         │\n│  2. 항공기 또는 함정의 조작ㆍ생산 또는 수리 기술자                       │\n│  3. 항공전투요격 관제업무 기술자                                         │\n│  4. 군의 공창(工廠)에 종사하는 중요 기술자                               │\n│  5. 「국가기술자격법」에 따른 기술사, 기사 1급 또는 기사 2급 자격자      │\n│  6. 그 밖에 참모총장이 제1호부터 제5호까지의 자격과 비슷하거나 같은 수준 │\n│이라고 인정하는 특수기술자                                                │\n└─────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141080&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562607",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141078&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567541",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562605",
-          "name": "law0030262013061124580KC_000200E_20130611.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567539",
+          "name": "law0030262013061124579KC_000200E_20130611.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562607",
-          "name": "law0030262013061124580KC_000200E_20130611.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567541",
+          "name": "law0030262013061124579KC_000200E_20130611.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562609",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567543",
           "name": "000200110201_P1_20130611.gif"
         }
       ],
@@ -1613,22 +1613,22 @@
       "enforcement_date": "20130611",
       "content": "[별표 3] <개정 2012.1.31>\n외국어에 능통한 사람의 범위(제44조제2항 관련)\n\n┌──────────────────┬───────────────────┐\n│대상 외국어                         │능통의 정도                           │\n├──────────────────┼───────────────────┤\n│                                    │                                      │\n│프랑스어ㆍ독일어ㆍ스페인어ㆍ중국어ㆍ│왼쪽 난의 외국어를 모국어로 사용하는  │\n│말레이-인도네시아어ㆍ포르투갈어ㆍ터 │국민이 고등교육을 마치고 작문이나 회  │\n│키어ㆍ태국어ㆍ이탈리아어ㆍ미얀마어ㆍ│화를 하는 정도의 수준에 이른 경우를   │\n│이란어ㆍ러시아어 및 그 밖에 국방부장│말한다.                               │\n│관이 지정하는 외국어                │                                      │\n└──────────────────┴───────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141080&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562613",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141078&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567547",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562611",
-          "name": "law0030262013061124580KC_000300E_20130611.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567545",
+          "name": "law0030262013061124579KC_000300E_20130611.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562613",
-          "name": "law0030262013061124580KC_000300E_20130611.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567547",
+          "name": "law0030262013061124579KC_000300E_20130611.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562615",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567549",
           "name": "000300110201_P1_20130611.gif"
         }
       ],
@@ -1643,22 +1643,22 @@
       "enforcement_date": "20130611",
       "content": "[별표 4] <개정 2012.1.31>\n기술직 및 전문직 대위의 범위(제44조제4항 관련)\n\n┌─────────────────────────────────────┐\n│                                                                          │\n│ 다음 각 호의 어느 하나에 해당하는 사람 중 정해진 교육을 이수하거나 자격  │\n│을 갖춘 사람으로서 해당 분야에서 5년 이상 근무한 사람                     │\n│ 1. 항공기 조종사                                                         │\n│ 2. 적 부대의 구성ㆍ배치ㆍ병력ㆍ전술ㆍ교육ㆍ군수 등 적 상황의 분석업무 종 │\n│사자                                                                      │\n│ 3. 특수장비 정비업무 종사자                                              │\n│ 4. 특수함정 및 잠수업무 종사자                                           │\n│ 5. 항공전투요격 관제, 기상분석 및 예보 업무 종사자                       │\n│ 6. 그 밖에 참모총장이 제1호부터 제5호까지의 자격과 비슷하거나 같은 수준이│\n│라고 인정하는 기술직 및 전문직 종사자                                     │\n└─────────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141080&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562619",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141078&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567553",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562617",
-          "name": "law0030262013061124580KC_000400E_20130611.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567551",
+          "name": "law0030262013061124579KC_000400E_20130611.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562619",
-          "name": "law0030262013061124580KC_000400E_20130611.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567553",
+          "name": "law0030262013061124579KC_000400E_20130611.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562621",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567555",
           "name": "000400110201_P1_20130611.gif"
         }
       ],
@@ -1673,22 +1673,22 @@
       "enforcement_date": "20130611",
       "content": "[별표 5] <개정 2012.1.31>\n군의 필수 기술 분야에 종사하는 사람의 범위(제44조제5항 관련)\n\n┌───────────────────────────────────┐\n│1. 토(tow)ㆍ벌컨ㆍ엘리콘ㆍ전차ㆍ자주포ㆍ호크ㆍ나이키 및 이에 준하는 특│\n│수장비의 정비기술자                                                   │\n│2. 항공기 또는 함정의 조작ㆍ생산 또는 수리기술 분야 종사자            │\n│3. 항공전투요격 관제업무 분야 종사자                                  │\n│4. 군의 공창(工廠)에 종사하는 중요 기술자                             │\n│5. 「국가기술자격법」에 따른 기술사, 기사 1급 또는 기사 2급 자격자    │\n│6. 3,300볼트 이상의 특수전류 분야, 탄약 개수(改修)의 특수 분야 또는 불│\n│발탄 제거처리를 주된 임무로 하는 사람                                 │\n│7. 전파탐지기ㆍ탐지시추기ㆍ마이크로웨이브 및 레이더의 정비기술자      │\n│8. 화생방독약ㆍ극약의 생산업무 종사자                                 │\n│9. 전자계산업무 종사자                                                │\n│10. 그 밖에 참모총장이 제1호부터 제9호까지의 자격과 비슷하거나 같은 수│\n│준이라고 인정하는 특수 기술자                                         │\n└───────────────────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141080&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562625",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=141078&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567559",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562623",
-          "name": "law0030262013061124580KC_000500E_20130611.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567557",
+          "name": "law0030262013061124579KC_000500E_20130611.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562625",
-          "name": "law0030262013061124580KC_000500E_20130611.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567559",
+          "name": "law0030262013061124579KC_000500E_20130611.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130562627",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=130567561",
           "name": "000500110201_P1_20130611.gif"
         }
       ],
