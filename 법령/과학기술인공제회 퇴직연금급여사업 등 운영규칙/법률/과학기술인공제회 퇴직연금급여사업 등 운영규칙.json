@@ -1,0 +1,402 @@
+{
+  "law_id": "010076",
+  "mst": "196118",
+  "version_uid": "010076:196118:20170726",
+  "law_name": "과학기술인공제회 퇴직연금급여사업 등 운영규칙",
+  "law_abbr": "",
+  "law_type": "과학기술정보통신부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20170726",
+  "enforcement_date": "20170726",
+  "revision_date": "20170726",
+  "revision_type": "타법개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "과학기술인공제회 퇴직연금급여사업 등 운영규칙",
+    "공포번호": "00001",
+    "전화번호": "044-202-4858, 4855",
+    "언어": "한글",
+    "제개정구분": "타법개정",
+    "법령ID": "010076",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "과학기술정보통신부",
+      "소관부처코드": "1721000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "과학기술정보통신부령",
+      "법종구분코드": "A0106"
+    },
+    "시행일자": "20170726",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-4858, 4855",
+        "부서키": "208997",
+        "부서명": "과학기술안전기반팀",
+        "소관부처명": "과학기술정보통신부",
+        "소관부처코드": "1721000"
+      }
+    },
+    "법령명_한자": "과학기술인공제회 퇴직연금급여사업 등 운영규칙",
+    "법령명약칭": "",
+    "공포일자": "20170726",
+    "편장절관": "18020000"
+  },
+  "amendment_text": "⊙과학기술정보통신부령 제1호(2017.7.26)\n과학기술정보통신부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 및 ② 생략\n③ 과학기술인공제회 퇴직연금급여사업 등 운영규칙 일부를 다음과 같이 개정한다.\n제6조 각 호 외의 부분 및 제7조 각 호 외의 부분 중 \"미래창조과학부령\"을 각각 \"과학기술정보통신부령\"으로 한다.\n④부터 <41>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n중소기업 육성과 과학기술 융합을 기반으로 미래 성장동력 확충과 일자리 창출 등 경제 활성화를 뒷받침하기 위하여 과학기술정보통신부를 신설하는 등 정부기능을 효율적으로 재배치하는 내용으로 「정부조직법」이 개정(법률 제14839호, 2017. 7. 26. 공포ㆍ시행)되고, 이에 따라 「과학기술정보통신부와 그 소속기관 직제」가 제정(대통령령 제28210호, 2017. 7. 26. 공포ㆍ시행)됨에 따라, 과학기술정보통신부와 그 소속기관에 두는 하부조직의 설치와 사무분장 및 직급별 정원 등 「과학기술정보통신부와 그 소속기관 직제」에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 과학기술정보통신부의 실ㆍ국에 두는 하부조직(안 제2조부터 제15조까지)\n과학기술정보통신부의 대변인, 감사관 및 기획조정실장 밑에 11개의 보좌기관을 두고, 연구개발정책실, 미래인재정책국, 정보통신정책실, 방송진흥정책국, 통신정책국, 전파정책국, 과학기술정책국, 연구개발투자심의국 및 성과평가정책국에 59개의 보조기관을 두고 그 분장사무 등을 규정함.\n나. 과학기술정보통신부의 소속기관에 두는 하부조직(안 제16조부터 제26조까지)\n과학기술정보통신부의 소속기관인 국립전파연구원, 중앙전파관리소, 국립중앙과학관 및 국립과천과학관에 두는 하부조직과 그 분장사무 등을 규정함.\n다. 과학기술정보통신부와 그 소속기관에 두는 공무원의 정원(안 제27조부터 제32조까지)\n과학기술정보통신부에 두는 공무원의 정원 776명(정무직 4명, 별정직 5명, 고위공무원단 22명, 3급 또는 4급 이하 741명, 전문경력관 4명) 및 한시정원 1명(4급 1명)과 국립전파연구원 등 소속기관에 두는 공무원의 정원 1,243명(고위공무원단 7명, 3급 또는 4급 이하 1,233명) 및 한시정원 3명(3급 또는 4급 이하)의 직급별 정원을 정함.\n<과학기술정보통신부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「과학기술인공제회법」 제16조의2부터 제16조의7까지의 규정에 따라 과학기술인공제회가 하는 퇴직연금급여사업 등의 운영에 필요한 사항을 규정함을 목적으로 한다. <개정 2013.12.26>",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제16조의2부터 제16조의7",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의2",
+            "target_article_title": "퇴직연금급여사업의 운영 등",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의2",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0001",
+            "reference_id": "law:과학기술인공제회법#JO0016_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규칙에서 \"적립금\"이란 「과학기술인공제회법」(이하 \"법\"이라 한다) 제2조에 따른 과학기술인공제회(이하 \"공제회\"라 한다)의 퇴직연금급여사업에 가입한 회원(이하 \"회원\"이라 한다)에게 퇴직연금급여(이하 \"급여\"라 한다)를 지급하기 위하여 법 제16조의2제2항 및 제3항에 따라 회원의 사용자(이하 \"사용자\"라 한다) 및 회원이 납입한 부담금으로 적립된 자금을 말한다. <개정 2013.12.26>",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제2조",
+            "target_article_title": "법인격과 등기",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제2조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0002",
+            "reference_id": "law:과학기술인공제회법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제16조의2",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의2",
+            "target_article_title": "퇴직연금급여사업의 운영 등",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의2",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0002",
+            "reference_id": "law:과학기술인공제회법#JO0016_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "급여수준",
+        "chapter": "",
+        "content": "제3조(급여수준) 법 제16조의2제1항에 따라 회원이 퇴직 후 지급받을 급여는 그 회원의 적립금과 그 운용수익의 합계액을 기초로 산정한 금액으로 한다. <개정 2013.12.26>",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제16조의2",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의2",
+            "target_article_title": "퇴직연금급여사업의 운영 등",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의2",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0003",
+            "reference_id": "law:과학기술인공제회법#JO0016_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "급여의 종류 및 수급요건",
+        "chapter": "",
+        "content": "제4조(급여의 종류 및 수급요건)\n① 급여의 종류 및 수급요건은 다음 각 호와 같다.\n1.  퇴직연금: 55세 이상인 퇴직한 회원에게 지급하는 급여\n2.  퇴직일시금: 퇴직연금급여를 일시금으로 받기를 원하는 회원에게 지급하는 급여\n② 제1항제1호에 따른 퇴직연금의 지급기간은 10년 이상이어야 한다.",
+        "enforcement_date": "20170726",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "적립금의 운용",
+        "chapter": "",
+        "content": "제5조(적립금의 운용)\n① 공제회는 회원이 적립금의 운용방법을 스스로 선정할 수 있도록 하고, 반기(半期)마다 1회 이상 적립금 운용방법의 변경이 가능하도록 하여야 한다. <개정 2013.12.26>\n② 공제회는 사용자 또는 회원에게 「근로자퇴직급여 보장법 시행령」제25조제1항 각 호에 따른 원리금보장 운용방법을 하나 이상 포함하여 위험과 수익구조가 다른 세 가지 이상의 적립금 운용방법을 제시하여야 한다. 이 경우 적립금의 안정적 운용을 위하여 다음 각 호의 운용방법 및 기준에 따라야 한다. <개정 2013.12.26>\n1.  「근로자퇴직급여 보장법 시행령」 제26조에 따른 운용방법 및 기준\n2.  그 밖에 적립금의 안정적 운용을 위하여 필요한 운용방법으로서 공제회의 설립목적에 부합하고 공제회의 정관에서 정한 운용방법 및 기준\n③ 공제회는 사용자 또는 회원에게 운용방법별 이익 및 손실의 가능성에 관한 정보 등 제1항에 따라 회원이 적립금의 운용방법을 선정하는데 필요한 정보를 제공하여야 한다. <개정 2013.12.26>\n④ 퇴직연금급여사업은 적립금의 투명한 관리ㆍ운용을 위하여 별도의 특별계정으로 구분하여 회계 처리하여야 한다. <개정 2013.12.26>",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제25조",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법 시행령",
+            "target_article_no": "제25조",
+            "target_article_title": "확정기여형퇴직연금제도 및 개인형퇴직연금제도 적립금의 원리금보장 운용방법",
+            "target_mst": "284693",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법 시행령/제25조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0005",
+            "reference_id": "law:근로자퇴직급여보장법시행령#JO0025"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제26조",
+            "line_text": "",
+            "target_law_name": "근로자퇴직급여 보장법 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "적립금의 안정적 운용을 위한 운용방법 및 기준",
+            "target_mst": "284693",
+            "target_url": "https://www.law.go.kr/법령/근로자퇴직급여 보장법 시행령/제26조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0005",
+            "reference_id": "law:근로자퇴직급여보장법시행령#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "담보제공 등",
+        "chapter": "",
+        "content": "제6조(담보제공 등) 법 제16조의3 단서에서 \"주택 구입 등 과학기술정보통신부령으로 정하는 사유와 요건을 갖춘 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다. <개정 2008.3.4, 2013.3.24, 2013.12.26, 2017.7.26>\n1.  무주택자인 회원이 주택을 구입하는 경우\n2.  회원 또는 그 부양가족이 6개월 이상 요양을 하는 경우\n3.  그 밖에 회원 또는 그 부양가족이 천재(天災) 등의 피해를 입어 담보제공이 불가피하다고 인정되는 경우",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제16조의3",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의3",
+            "target_article_title": "수급권의 보호",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의3",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0006",
+            "reference_id": "law:과학기술인공제회법#JO0016_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "회원에 대한 퇴직연금급여사업 운영상황 등의 통보",
+        "chapter": "",
+        "content": "제7조(회원에 대한 퇴직연금급여사업 운영상황 등의 통보) 법 제16조의4에서 \"퇴직연금급여사업의 운영 상황 등 과학기술정보통신부령으로 정하는 사항\"이란 다음 각 호의 사항을 말한다. <개정 2008.3.4, 2013.3.24, 2013.12.26, 2017.7.26>\n1.  사용자의 부담금 수준, 부담금 납부시기 및 납부현황\n2.  적립금의 운용수익 및 운용방법별 구성비율 등 운용현황\n3.  회원의 나이ㆍ근속연수 등을 고려한 노후 설계의 중요성에 대한 사항\n4.  그 밖에 급여수급요건 및 세제혜택 등 퇴직연금급여사업 운영과 관련하여 회원이 알 필요가 있다고 인정되는 사항",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제16조의4",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의4",
+            "target_article_title": "퇴직연금급여사업 운영 상황 등의 통보",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의4",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0007",
+            "reference_id": "law:과학기술인공제회법#JO0016_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "퇴직연금급여사업 운영실적 등의 제출",
+        "chapter": "",
+        "content": "제8조(퇴직연금급여사업 운영실적 등의 제출)\n① 법 제16조의5에 따른 퇴직연금급여사업 운영실적 등에는 다음 각 호의 사항이 포함되어야 한다. <개정 2009.6.24, 2013.12.26>\n1.  운용관리업무 수행에 관한 사항. 이 경우 대상기관ㆍ가입자 및 적립금에 대한 현황을 포함하여야 한다.\n2.  적립금의 운용방법별 현황이 포함된 운용상황\n3.  급여의 종류별 수급 및 중도인출 현황 등 급여지급사항\n4.  그 밖에 적립금 운용계획 등 퇴직연금급여사업의 운영상황 파악에 필요한 사항\n② 법 제16조의6제6항에 따른 과학기술발전장려금 운영실적에는 다음 각 호의 사항이 포함되어야 한다. <신설 2009.6.24, 2013.12.26>\n1.  출연금의 운용 및 수익현황\n2.  출연금 운용수익의 사용실적. 이 경우 과학기술발전장려금의 적립 및 재투자 현황 등이 포함되어야 한다.\n3.  과학기술발전장려금 지급사항. 이 경우 퇴직한 인원 및 과학기술발전장려금 지급현황이 포함되어야 한다.",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제16조의5",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의5",
+            "target_article_title": "퇴직연금급여사업의 운영 실적 등의 제출",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의5",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0008",
+            "reference_id": "law:과학기술인공제회법#JO0016_05"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제16조의6",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의6",
+            "target_article_title": "과학기술발전장려금",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의6",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0008",
+            "reference_id": "law:과학기술인공제회법#JO0016_06"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "연금심의위원회 운영",
+        "chapter": "",
+        "content": "제9조(연금심의위원회 운영)\n① 법 제16조의7제1항에 따른 연금심의위원회의 위원장이 부득이한 사유로 직무를 수행할 수 없을 때에는 위원장이 미리 지명한 위원이 그 직무를 대행한다. <개정 2013.12.26>\n② 위원장은 매년 3월 31일까지 정기위원회를 소집하고, 재적위원 3분의 1 이상이 요구하거나 그 밖에 위원장이 필요하다고 인정할 때에는 임시위원회를 소집할 수 있다. <개정 2013.12.26>\n③ 위원장은 회의를 소집하려면 회의 개최 7일 전까지 회의의 일시ㆍ장소 및 안건을 각 위원에게 알려야 한다. 다만, 긴급한 경우에는 그 기간을 단축할 수 있다. <개정 2013.12.26>\n④ 위원장은 표결권을 가진다.\n⑤ 회의결과는 의사록을 작성하여 위원장과 출석위원 과반수 이상의 서명을 받아 보관한다.\n⑥ 연금심의위원회의 회의에 출석한 위원에게는 예산의 범위 에서 수당과 여비를 지급할 수 있다. 다만, 공무원인 위원이 그 소관 업무와 직접적으로 관련되어 출석하는 경우에는 그러하지 아니하다. <개정 2013.12.26>",
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제16조의7",
+            "line_text": "",
+            "target_law_name": "과학기술인공제회법",
+            "target_article_no": "제16조의7",
+            "target_article_title": "연금심의위원회",
+            "target_mst": "268723",
+            "target_url": "https://www.law.go.kr/법령/과학기술인공제회법/제16조의7",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0009",
+            "reference_id": "law:과학기술인공제회법#JO0016_07"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#JO0009"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20051130",
+      "promulgation_no": "00079",
+      "addendum_key": "2005113000079",
+      "content": "부칙 <제00079호,2005.11.30>\n이 규칙은 2005년 12월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20080304",
+      "promulgation_no": "00001",
+      "addendum_key": "2008030400001",
+      "content": "부칙(교육과학기술부와 그 소속기관 직제 시행규칙) <제1호,2008.3.4>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ① 부터 <57> 까지 생략\n<58> 과학기술인공제회 퇴직연금급여사업 운영규칙 일부를 다음과 같이 개정한다.\n제6조 각 호 외의 부분 및 제7조 각 호 외의 부분 중 \"과학기술부령\"을 각각 \"교육과학기술부령\"으로 한다.\n<59> 부터 <63> 까지 생략"
+    },
+    {
+      "promulgation_date": "20090624",
+      "promulgation_no": "00039",
+      "addendum_key": "2009062400039",
+      "content": "부칙 <제39호,2009.6.24>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130324",
+      "promulgation_no": "00001",
+      "addendum_key": "2013032400001",
+      "content": "부칙(미래창조과학부와 그 소속기관 직제 시행규칙) <제1호,2013.3.24>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 생략\n② 과학기술인공제회 퇴직연금급여사업 등 운영규칙 일부를 다음과 같이 개정한다.\n제6조 각 호 외의 부분 및 제7조 각 호 외의 부분 중 \"교육과학기술부령\"을 각각 \"미래창조과학부령\"으로 한다.\n③부터 <31>까지 생략"
+    },
+    {
+      "promulgation_date": "20131226",
+      "promulgation_no": "00012",
+      "addendum_key": "2013122600012",
+      "content": "부칙 <제12호,2013.12.26>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(급여의 수급에 관한 경과조치) 이 규칙 시행 전에 퇴직한 자에 대해서는 제4조의 개정규정에도 불구하고 종전의 규정에 따른다."
+    },
+    {
+      "promulgation_date": "20170726",
+      "promulgation_no": "00001",
+      "addendum_key": "2017072600001",
+      "content": "부칙(과학기술정보통신부와 그 소속기관 직제 시행규칙) <제1호,2017.7.26>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 및 ② 생략\n③ 과학기술인공제회 퇴직연금급여사업 등 운영규칙 일부를 다음과 같이 개정한다.\n제6조 각 호 외의 부분 및 제7조 각 호 외의 부분 중 \"미래창조과학부령\"을 각각 \"과학기술정보통신부령\"으로 한다.\n④부터 <41>까지 생략"
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "법령": 11
+    },
+    "by_relation_type": {
+      "citation": 11
+    },
+    "articles_total": 9,
+    "articles_with_relations": 8,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/과학기술인공제회 퇴직연금급여사업 등 운영규칙"
+  },
+  "provision_id": "law:과학기술인공제회퇴직연금급여사업등운영규칙#DOC",
+  "future_enforcement_dates": [],
+  "version_count": 1
+}
