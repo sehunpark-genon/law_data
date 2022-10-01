@@ -1,0 +1,149 @@
+{
+  "law_id": "005711",
+  "mst": "244753",
+  "version_uid": "005711:244753:20221001",
+  "law_name": "공탁금의 이자에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "03068",
+  "promulgation_date": "20220929",
+  "enforcement_date": "20221001",
+  "revision_date": "20220929",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "공탁금의 이자에 관한 규칙",
+    "공포번호": "03068",
+    "전화번호": "02-3480-1880",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "005711",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20221001",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1880",
+        "부서키": "302747",
+        "부서명": "사법등기심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "공탁금의 이자에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20220929",
+    "편장절관": "08050000"
+  },
+  "amendment_text": "⊙대법원규칙 제3068호\n공탁금의 이자에 관한 규칙 일부개정규칙을 다음과 같이 공포한다.\n2022년 9월 29일\n대법원장        김명수 (인)\n공탁금의 이자에 관한 규칙 일부개정규칙\n공탁금의 이자에 관한 규칙 일부를 다음과 같이 개정한다.\n제2조 중 \"연 1천분의 1\"을 \"연 1만분의 35\"로 한다.\n부칙\n이 규칙은 2022년 10월 1일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n최근 한국은행 기준금리 인상을 고려하여 공탁금의 이자율을 연 1만분의 35로 함\n◇ 주요내용\n공탁금 이자를 ‘연 1천분의 1’에서 ‘연 1만분의 35’로 함(제2조)\n<법원행정처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「공탁법」 제6조에 따라 공탁금의 이자를 정함을 목적으로 한다.",
+        "enforcement_date": "20221001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조",
+            "line_text": "",
+            "target_law_name": "공탁법",
+            "target_article_no": "제6조",
+            "target_article_title": "공탁금의 이자",
+            "target_mst": "284413",
+            "target_url": "https://www.law.go.kr/법령/공탁법/제6조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공탁금의이자에관한규칙#JO0001",
+            "reference_id": "law:공탁법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공탁금의이자에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "이자",
+        "chapter": "",
+        "content": "제2조(이자) 공탁금의 이자는 연 1만분의 35로 한다. <개정 2018.5.29, 2020.6.26, 2022.9.29>",
+        "enforcement_date": "20221001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공탁금의이자에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20130830",
+      "promulgation_no": "02485",
+      "addendum_key": "2013083002485",
+      "content": "부칙 <제2485호,2013.8.30>\n이 규칙은 2013년 9월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20150330",
+      "promulgation_no": "02595",
+      "addendum_key": "2015033002595",
+      "content": "부칙 <제2595호,2015.3.30>\n이 규칙은 2015년 4월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20180529",
+      "promulgation_no": "02790",
+      "addendum_key": "2018052902790",
+      "content": "부칙 <제2790호,2018.5.29>\n제1조(시행일) 이 규칙은 2018년 7월 1일부터 시행한다.\n제2조(적용례) 이 규칙은 이 규칙 시행 전에 공탁한 공탁금으로서 이 규칙 시행일 이후에 공탁금 지급을 신청한 자에 대하여도 적용한다."
+    },
+    {
+      "promulgation_date": "20200626",
+      "promulgation_no": "02907",
+      "addendum_key": "2020062602907",
+      "content": "부칙 <제2907호,2020.6.26>\n이 규칙은 2020년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20220929",
+      "promulgation_no": "03068",
+      "addendum_key": "2022092903068",
+      "content": "부칙 <제3068호,2022.9.29>\n이 규칙은 2022년 10월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "법령": 1
+    },
+    "by_relation_type": {
+      "citation": 1
+    },
+    "articles_total": 2,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 5,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/공탁금의 이자에 관한 규칙"
+  },
+  "provision_id": "law:공탁금의이자에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "version_count": 1
+}
