@@ -1,23 +1,22 @@
 {
   "law_id": "010674",
-  "mst": "266755",
-  "version_uid": "010674:266755:20241231",
+  "mst": "265721",
+  "version_uid": "010674:265721:20241231",
   "law_name": "금융위원회와 그 소속기관 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "35035",
-  "promulgation_date": "20241203",
+  "promulgation_no": "34941",
+  "promulgation_date": "20241015",
   "enforcement_date": "20241231",
-  "revision_date": "20241203",
+  "revision_date": "20241015",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "금융위원회와 그 소속기관 직제",
-    "별표시행일자문자열": "20241203:별표120241231:별표1",
-    "공포번호": "35035",
+    "별표시행일자문자열": "20241015:별표420241231:별표1",
+    "공포번호": "34941",
     "전화번호": "02-2100-2752",
-    "법령명_영어": "DECREE ON THE ORGANIZATION OF THE FINANCIAL SERVICES COMMISSION AND INSTITUTIONS UNDER ITS JURISDICTION",
     "언어": "한글",
     "제개정구분": "일부개정",
     "법령ID": "010674",
@@ -53,11 +52,11 @@
     },
     "법령명_한자": "금융위원회와 그 소속기관 직제",
     "법령명약칭": "",
-    "공포일자": "20241203",
+    "공포일자": "20241015",
     "편장절관": "23010000"
   },
-  "amendment_text": "국무회의의 심의를 거친 금융위원회와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령        윤석열 (인)\n2024년 12월 3일\n국무총리        한덕수\n국무위원 행정안전부 장관        이상민\n⊙대통령령 제35035호\n금융위원회와 그 소속기관 직제 일부개정령\n금융위원회와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n별표 1 중 총계 \"245\"를 \"247\"로 하고, 일반직 계 \"243\"을 \"245\"로 하며, 3급 또는 4급 이하 \"218\"을 \"220\"으로 한다.\n대통령령 제34941호 금융위원회와 그 소속기관 직제 일부개정령 별표 1의 개정부분을 다음과 같이 한다.\n별표 1 중 총계 \"247\"을 \"245\"로 하고, 일반직 계 \"245\"를 \"243\"으로 하며, 3급 또는 4급 이하 \"220\"을 \"218\"로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n재난관리 사각지대를 해소하고 재난에 신속하게 대응하기 위하여 재난 및 사고 유형별 재난관리주관기관을 전면 정비하는 등의 내용으로 「재난 및 안전관리 기본법 시행령」이 개정됨에 따라, 금융위원회에 정보통신기반시설을 관리하는 금융기관 관련 재난 및 안전관리 기능 강화를 위하여 필요한 인력 2명(5급 1명, 7급 1명)을 증원하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국무회의의 심의를 거친 금융위원회와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령        윤석열 (인)\n2024년 10월 15일\n국무총리        한덕수\n국무위원 행정안전부 장관        이상민\n⊙대통령령 제34941호\n금융위원회와 그 소속기관 직제 일부개정령\n금융위원회와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n제23조제1항 중 \"2024년 10월 15일\"을 \"2026년 12월 25일\"로 한다.\n별표 1 중 총계 \"245\"를 \"243\"으로 하고, 일반직 계 \"243\"을 \"241\"로 하며, 3급 또는 4급 이하 \"218\"을 \"216\"으로 한다.\n별표 4 제1호 중 \"2024년 10월 15일\"을 \"2026년 12월 25일\"로 한다.\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 별표 1의 개정규정은 2024년 12월 31일부터 시행한다.\n제2조(정원에 관한 경과조치) 이 영 시행으로 감축되는 금융위원회의 정원 2명(5급 1명, 6급 1명)에 해당하는 초과현원이 있는 경우에는 그 초과된 현원이 이 영에 따른 정원과 일치될 때까지 그에 상응하는 정원이 금융위원회에 따로 있는 것으로 본다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n금융위원회에 한시조직으로 설치한 기업구조개선과의 존속기한을 2024년 10월 15일까지에서 2026년 12월 25일까지로 연장하는 한편,\n범정부 차원에서 인력을 통합하여 효율적으로 관리하기 위한 통합활용정원제 운영 계획에 따라 국정과제ㆍ정책현안 등의 추진을 위한 인력으로 활용하기 위하여 금융위원회의 정원 2명(5급 1명, 6급 1명)을 감축하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 30,
@@ -711,22 +710,22 @@
       "enforcement_date": "20241231",
       "content": "■ 금융위원회와 그 소속기관 직제 [별표 1] <개정 2024. 12. 3.>\n\n금융위원회 공무원 정원표(제18조 관련)\n\n총계                              245\n\n정무직 계                       2\n\n위원장(장관급)                1\n\n부위원장(차관급)              1\n\n일반직 계                       243\n\n고위공무원단                  9\n\n고위공무원단에 속하는 임기제  3\n\n3급 또는 4급 이하             218\n\n전문직공무원                  12\n\n전문경력관                    1",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266755&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822929",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=265721&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823075",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822927",
-          "name": "law0106742024120335035KC_000100E_20241231.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823073",
+          "name": "law0106742024101534941KC_000100E_20241231.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822929",
-          "name": "law0106742024120335035KC_000100E_20241231.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823075",
+          "name": "law0106742024101534941KC_000100E_20241231.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822931",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823077",
           "name": "000100110201_P1_20241231.gif"
         }
       ],
@@ -741,22 +740,22 @@
       "enforcement_date": "20241231",
       "content": "■ 금융위원회와 그 소속기관 직제 [별표 2] <개정 2022. 12. 27.>\n\n금융정보분석원 공무원 정원표(제19조 관련)\n\n총계                    70\n\n일반직 계             62\n\n고위공무원단        1\n\n3급 또는 4급 이하   61\n\n경찰공무원 계         8\n\n총경 이하           8",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266755&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822935",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=265721&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823081",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822933",
-          "name": "law0106742024120335035KC_000200E_20241231.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823079",
+          "name": "law0106742024101534941KC_000200E_20241231.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822935",
-          "name": "law0106742024120335035KC_000200E_20241231.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823081",
+          "name": "law0106742024101534941KC_000200E_20241231.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822937",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823083",
           "name": "000200110201_P1_20241231.gif"
         }
       ],
@@ -771,22 +770,22 @@
       "enforcement_date": "20241231",
       "content": "■ 금융위원회와 그 소속기관 직제 [별표 3] <개정 2022. 12. 27.>\n\n금융위원회에 두는 평가대상 조직(제21조제1항 관련)\n┌──────────┬────────────────────┐\n│조직                │정원                                    │\n├──────────┼────────────────────┤\n│금융소비자국 1개 과 │4명                                     │\n├──────────┼────────────────────┤\n│자본시장국 1개 과   │3명                                     │\n└──────────┴────────────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266755&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822941",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=265721&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823087",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822939",
-          "name": "law0106742024120335035KC_000300E_20241231.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823085",
+          "name": "law0106742024101534941KC_000300E_20241231.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822941",
-          "name": "law0106742024120335035KC_000300E_20241231.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823087",
+          "name": "law0106742024101534941KC_000300E_20241231.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822943",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823089",
           "name": "000300110201_P1_20241231.gif"
         }
       ],
@@ -801,22 +800,22 @@
       "enforcement_date": "20241231",
       "content": "■ 금융위원회와 그 소속기관 직제 [별표 4]\n금융위원회와 그 소속기관 한시조직에 두는 공무원 정원표\n(제23조제4항, 제23조의2제4항 및 제23조의3제6항 관련)\n\n1. 기업구조개선과(존속기한: 2026년 12월 25일)\n\n총계              5\n\n일반직 계       5\n\n4급 이하      5\n\n2. 가상자산과(존속기한: 2025년 12월 31일)\n\n총계              8\n\n일반직 계       8\n\n4급 이하      8\n\n3. 제도운영기획관(존속기한: 2025년 12월 31일)\n\n총계              1\n\n일반직 계       1\n\n고위공무원단  1\n\n4. 가상자산검사과(존속기한: 2025년 12월 31일)\n\n총계              7\n\n일반직 계       7\n\n4급 이하      7\n\n<개정 2024. 10. 15.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266755&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822947",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=265721&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823093",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822945",
-          "name": "law0106742024120335035KC_000400E_20241231.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823091",
+          "name": "law0106742024101534941KC_000400E_20241231.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822947",
-          "name": "law0106742024120335035KC_000400E_20241231.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823093",
+          "name": "law0106742024101534941KC_000400E_20241231.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822949",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823095",
           "name": "000400110201_P1_20241231.gif"
         }
       ],
@@ -831,22 +830,22 @@
       "enforcement_date": "20241231",
       "content": "■ 금융위원회와 그 소속기관 직제 [별표 5] <개정 2024. 6. 25.>\n\n금융위원회 소속기관 공무원 한시정원표(제24조 관련)\n\n제24조 관련 한시정원(존속기한: 2025년 12월 31일)\n\n총계          1\n\n일반직 계   1\n\n5급 이하  1",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=266755&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822953",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=265721&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823099",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822951",
-          "name": "law0106742024120335035KC_000500E_20241231.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823097",
+          "name": "law0106742024101534941KC_000500E_20241231.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822953",
-          "name": "law0106742024120335035KC_000500E_20241231.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823099",
+          "name": "law0106742024101534941KC_000500E_20241231.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145822955",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=145823101",
           "name": "000500110201_P1_20241231.gif"
         }
       ],
