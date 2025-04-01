@@ -1,21 +1,21 @@
 {
   "law_id": "011789",
-  "mst": "270455",
-  "version_uid": "011789:270455:20250401",
+  "mst": "269207",
+  "version_uid": "011789:269207:20250401",
   "law_name": "농림축산식품부와 그 소속기관 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "35409",
-  "promulgation_date": "20250401",
+  "promulgation_no": "35300",
+  "promulgation_date": "20250225",
   "enforcement_date": "20250401",
-  "revision_date": "20250401",
+  "revision_date": "20250225",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "농림축산식품부와 그 소속기관 직제",
-    "별표시행일자문자열": "20250401:별표5",
-    "공포번호": "35409",
+    "별표시행일자문자열": "20250225:별표2,별표320250401:별표6",
+    "공포번호": "35300",
     "전화번호": "044-201-1342, 1343",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -50,13 +50,14 @@
         }
       ]
     },
+    "조문시행일자문자열": "20250401:제45조",
     "법령명_한자": "농림축산식품부와 그 소속기관 직제",
     "법령명약칭": "",
-    "공포일자": "20250401",
+    "공포일자": "20250225",
     "편장절관": "24010100"
   },
-  "amendment_text": "국무회의의 심의를 거친 농림축산식품부와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령 권한대행 국무총리        한덕수 (인)\n2025년 4월 1일\n국무총리        한덕수\n국무위원 행정안전부 장관\n⊙대통령령 제35409호\n농림축산식품부와 그 소속기관 직제 일부개정령\n농림축산식품부와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n제43조제1항 중 \"2025년 4월 30일\"을 \"2027년 4월 30일\"로 한다.\n별표 5 제2호 중 \"2025년 4월 30일\"을 \"2027년 4월 30일\"로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n농산업 수출 활성화를 위하여 농림축산식품부 농업혁신정책실에 한시조직으로 설치한 농산업수출진흥과의 존속기한을 2025년 4월 30일까지에서 2027년 4월 30일까지로 2년 연장하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국무회의의 심의를 거친 농림축산식품부와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령 권한대행 국무위원 부총리 겸 기획재정부 장관        최상목 (인)\n2025년 2월 25일\n국무총리 직무대행 국무위원 부총리 겸 기획재정부 장관        최상목\n국무위원 행정안전부 장관\n⊙대통령령 제35300호\n농림축산식품부와 그 소속기관 직제 일부개정령\n농림축산식품부와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n제10장의 제목 \"한시조직 및 한시정원\"을 \"한시조직\"으로 한다.\n제45조를 삭제한다.\n별표 2 중 총계 \"632\"를 \"635\"로 하고, 일반직 계 \"628\"을 \"631\"로 하며, 3급 또는 4급 이하 \"608\"을 \"611\"로 한다.\n별표 3 중 총계 \"2,645\"를 \"2,674\"로 하고, 일반직 계 \"2,645\"를 \"2,674\"로 하며, 3급 또는 4급 이하 \"2,600\"을 \"2,629\"로 한다.\n별표 6을 삭제한다.\n부칙\n이 영은 공포한 날부터 시행한다. 다만, 제45조 및 별표 6의 개정규정은 2025년 4월 1일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n농림축산식품부에 농촌 경제ㆍ사회 서비스 활성화 계획의 수립 및 추진 등의 업무 수행에 필요한 인력 1명(5급 1명), 그린바이오산업 육성에 관한 업무 수행에 필요한 인력 1명(6급 1명), 식량자급률 제고를 위한 가루쌀 산업 활성화 정책의 추진 업무 수행에 필요한 인력 1명(5급 1명)을 각각 증원하고, 농림축산식품부 소속기관인 농림축산검역본부에 인천국제공항 4단계 확장 운영에 따른 제2여객터미널 동식물 검역 업무 수행에 필요한 인력 24명(6급 11명, 7급 13명), 김해공항 국제선 입국장 확장 운영에 따른 동식물 검역 업무 수행에 필요한 인력 4명(6급 2명, 7급 2명)과 고위험 해외 식물 병해충 대응 관련 검역기술 연구ㆍ개발 업무에 필요한 인력 1명(연구관 1명)을 각각 증원하는 한편,\n환경부장관과의 협업으로 항생제 내성 관리 업무를 추진하기 위하여 농림축산식품부 소속기관인 농림축산검역본부에 증원한 한시정원 1명(연구관 1명)을 존속기한 만료에 따라 감축하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 48,
@@ -848,22 +849,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 1] <개정 2023. 12. 26.>\n\n지역본부의 명칭 및 위치(제23조제4항 관련)\n┌────────┬────────────┐\n│명칭            │위치                    │\n├────────┼────────────┤\n│인천공항지역본부│인천광역시              │\n├────────┼────────────┤\n│영남지역본부    │부산광역시              │\n├────────┼────────────┤\n│중부지역본부    │인천광역시              │\n├────────┼────────────┤\n│서울지역본부    │서울특별시              │\n├────────┼────────────┤\n│호남지역본부    │전북특별자치도          │\n├────────┼────────────┤\n│제주지역본부    │제주특별자치도          │\n└────────┴────────────┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0001&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434591",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434821",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434589",
-          "name": "law0117892025040135409KC_000100E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434819",
+          "name": "law0117892025022535300KC_000100E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434591",
-          "name": "law0117892025040135409KC_000100E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434821",
+          "name": "law0117892025022535300KC_000100E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434593",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434823",
           "name": "000100110201_P1_20250401.gif"
         }
       ],
@@ -878,22 +879,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 2] <개정 2025. 2. 25.>\n\n농림축산식품부 공무원 정원표(제38조제1항 관련)\n\n총계                                          635\n\n정무직 계                                   2\n\n장관                                      1\n\n차관                                      1\n\n별정직 계                                   2\n\n고위공무원단                              1\n\n3급 상당 또는 4급 상당 이하               1\n\n일반직 계                                   631\n\n고위공무원단                              14\n\n고위공무원단에 속하는 일반직 또는 연구직  2\n\n고위공무원단에 속하는 임기제              1\n\n3급 또는 4급 이하                         611\n\n전문경력관                                3",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0002&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434597",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434827",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434595",
-          "name": "law0117892025040135409KC_000200E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434825",
+          "name": "law0117892025022535300KC_000200E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434597",
-          "name": "law0117892025040135409KC_000200E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434827",
+          "name": "law0117892025022535300KC_000200E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434599",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434829",
           "name": "000200110201_P1_20250401.gif"
         }
       ],
@@ -908,22 +909,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 2의2] 삭제 <2023. 2. 28.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0002&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434603",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0002&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434833",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434601",
-          "name": "law0117892025040135409KC_000202E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434831",
+          "name": "law0117892025022535300KC_000202E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434603",
-          "name": "law0117892025040135409KC_000202E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434833",
+          "name": "law0117892025022535300KC_000202E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434605",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434835",
           "name": "000202110201_P1_20250401.gif"
         }
       ],
@@ -938,22 +939,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 3] <개정 2025. 2. 25.>\n\n농림축산식품부 소속기관 공무원 정원표(제39조제1항 관련)\n\n총계                                          2,674\n\n일반직 계                                   2,674\n\n고위공무원단                              4\n\n고위공무원단에 속하는 일반직 또는 연구직  3\n\n3급 또는 4급 이하                         2,629\n\n전문경력관                                37\n\n임기제(교수요원)                          1",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0003&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434609",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434839",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434607",
-          "name": "law0117892025040135409KC_000300E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434837",
+          "name": "law0117892025022535300KC_000300E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434609",
-          "name": "law0117892025040135409KC_000300E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434839",
+          "name": "law0117892025022535300KC_000300E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434611",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434841",
           "name": "000300110201_P1_20250401.gif"
         }
       ],
@@ -968,22 +969,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 3의2] 삭제 <2016. 5. 10.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0003&bylBrNo=02",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434615",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0003&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434845",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434613",
-          "name": "law0117892025040135409KC_000302E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434843",
+          "name": "law0117892025022535300KC_000302E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434615",
-          "name": "law0117892025040135409KC_000302E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434845",
+          "name": "law0117892025022535300KC_000302E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434617",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434847",
           "name": "000302110201_P1_20250401.gif"
         }
       ],
@@ -998,22 +999,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 4] <개정 2024. 9. 26.>\n\n농림축산식품부와 그 소속기관에 두는 평가대상 조직(제41조제1항 관련)\n\n┌────────────┬──┐1. 농림축산식품부에 두는 평가대상 조직\n│조직                    │정원│\n├────────────┼──┤\n│농촌정책국 1개 정책관등 │0명 │\n└────────────┴──┘\n\n2. 농림축산식품부 소속기관에 두는 평가대상 조직\n┌──────────────┬──┐\n│조직                        │정원│\n├──────────────┼──┤\n│국립농산물품질관리원 1개 과 │4명 │\n└──────────────┴──┘",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0004&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434621",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434851",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434619",
-          "name": "law0117892025040135409KC_000400E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434849",
+          "name": "law0117892025022535300KC_000400E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434621",
-          "name": "law0117892025040135409KC_000400E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434851",
+          "name": "law0117892025022535300KC_000400E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434623",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434853",
           "name": "000400110201_P1_20250401.gif"
         }
       ],
@@ -1028,22 +1029,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 5] <개정 2025. 4. 1.>\n\n농림축산식품부 한시조직에 두는 공무원 정원표\n(제42조제5항, 제43조제4항, 제44조제4항 및 제44조의2제4항 관련)\n\n1. 국가식품클러스터추진단(존속기한: 2025년 12월 31일)\n\n총계          3\n\n일반직 계   3\n\n4급 이하  3\n\n2. 농산업수출진흥과(존속기한: 2027년 4월 30일)\n\n총계          4\n\n일반직 계   4\n\n4급 이하  4\n\n3. 차세대농업정보화추진단(존속기한: 2026년 12월 25일)\n\n총계          16\n\n일반직 계   16\n\n4급 이하  16\n\n4. 개식용종식추진단(존속기한: 2027년 4월 29일)\n\n총계          7\n\n일반직 계   7\n\n4급 이하  7",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0005&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434627",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0005&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434857",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434625",
-          "name": "law0117892025040135409KC_000500E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434855",
+          "name": "law0117892025022535300KC_000500E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434627",
-          "name": "law0117892025040135409KC_000500E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434857",
+          "name": "law0117892025022535300KC_000500E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434629",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434859",
           "name": "000500110201_P1_20250401.gif"
         }
       ],
@@ -1058,22 +1059,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 6] 삭제 <2025. 2. 25.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0006&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434633",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0006&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434863",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434631",
-          "name": "law0117892025040135409KC_000600E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434861",
+          "name": "law0117892025022535300KC_000600E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434633",
-          "name": "law0117892025040135409KC_000600E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434863",
+          "name": "law0117892025022535300KC_000600E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434635",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434865",
           "name": "000600110201_P1_20250401.gif"
         }
       ],
@@ -1088,22 +1089,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 7] 삭제 <2016. 5. 10.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0007&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434639",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0007&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434869",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434637",
-          "name": "law0117892025040135409KC_000700E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434867",
+          "name": "law0117892025022535300KC_000700E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434639",
-          "name": "law0117892025040135409KC_000700E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434869",
+          "name": "law0117892025022535300KC_000700E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434641",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434871",
           "name": "000700110201_P1_20250401.gif"
         }
       ],
@@ -1118,22 +1119,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 8] 삭제 <2016. 5. 10.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0008&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434645",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0008&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434875",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434643",
-          "name": "law0117892025040135409KC_000800E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434873",
+          "name": "law0117892025022535300KC_000800E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434645",
-          "name": "law0117892025040135409KC_000800E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434875",
+          "name": "law0117892025022535300KC_000800E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434647",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434877",
           "name": "000800110201_P1_20250401.gif"
         }
       ],
@@ -1148,22 +1149,22 @@
       "enforcement_date": "20250401",
       "content": "■ 농림축산식품부와 그 소속기관 직제 [별표 9] 삭제 <2016. 5. 10.>",
       "is_file_only": false,
-      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=270455&bylNo=0009&bylBrNo=00",
-      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434651",
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=269207&bylNo=0009&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434881",
       "files": [
         {
           "type": "hwp",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434649",
-          "name": "law0117892025040135409KC_000900E_20250401.hwp"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434879",
+          "name": "law0117892025022535300KC_000900E_20250401.hwp"
         },
         {
           "type": "pdf",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434651",
-          "name": "law0117892025040135409KC_000900E_20250401.pdf"
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434881",
+          "name": "law0117892025022535300KC_000900E_20250401.pdf"
         },
         {
           "type": "image",
-          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434653",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=150434883",
           "name": "000900110201_P1_20250401.gif"
         }
       ],
