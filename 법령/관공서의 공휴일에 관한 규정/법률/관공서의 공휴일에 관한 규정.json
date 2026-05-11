@@ -1,0 +1,289 @@
+{
+  "law_id": "002404",
+  "mst": "285779",
+  "version_uid": "002404:285779:20260511",
+  "law_name": "관공서의 공휴일에 관한 규정",
+  "law_abbr": "관공서공휴일규정",
+  "law_type": "대통령령",
+  "promulgation_no": "36290",
+  "promulgation_date": "20260430",
+  "enforcement_date": "20260511",
+  "revision_date": "20260430",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "관공서의 공휴일에 관한 규정",
+    "공포번호": "36290",
+    "전화번호": "044-201-8436",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "002404",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "인사혁신처",
+      "소관부처코드": "1760000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20260511",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-8436",
+        "부서키": "416977",
+        "부서명": "복무과",
+        "소관부처명": "인사혁신처",
+        "소관부처코드": "1760000"
+      }
+    },
+    "조문시행일자문자열": "20260511:제2조 각 호 외의 부분 단서, 제2조제2호",
+    "법령명_한자": "관공서의 공휴일에 관한 규정",
+    "법령명약칭": "관공서공휴일규정",
+    "공포일자": "20260430",
+    "편장절관": "05040000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 관공서의 공휴일에 관한 규정 일부개정령을 이에 공포한다.\n대통령        이재명 (인)\n2026년 4월 30일\n국무총리        김민석\n국무위원 행정안전부 장관(인사혁신처 소관)        윤호중\n⊙대통령령 제36290호\n관공서의 공휴일에 관한 규정 일부개정령\n관공서의 공휴일에 관한 규정 일부를 다음과 같이 개정한다.\n제2조 각 호 외의 부분 단서 중 \"우리나라의 국경일 중 공휴일\"을 \"「국경일에 관한 법률」에 따른 국경일\"로 하고, 같은 조 제2호 및 제4호를 각각 다음과 같이 하며, 같은 조에 제5호를 다음과 같이 신설하고, 같은 조 제6호부터 제10호까지를 각각 다음과 같이 하며, 같은 조 제11호 중 \"기타\"를 \"그 밖에\"로 한다.\n2. 「국경일에 관한 법률」에 따른 국경일\n4. 설날 전날, 설날, 설날 다음 날(음력 12월 말일, 1월 1일, 2일)\n5. 부처님 오신 날(음력 4월 8일)\n6. 노동절(5월 1일)\n7. 어린이날(5월 5일)\n8. 현충일(6월 6일)\n9. 추석 전날, 추석, 추석 다음 날(음력 8월 14일, 15일, 16일)\n10. 기독탄신일(12월 25일)\n제3조제1항제1호 중 \"제2조제2호ㆍ제6호ㆍ제7호\"를 \"제2조제2호, 제5호부터 제7호까지\"로 하고, 같은 항 제3호 중 \"제2조제2호ㆍ제4호ㆍ제6호ㆍ제7호ㆍ제9호\"를 \"제2조제2호, 제4호부터 제7호까지, 제9호\"로 한다.\n부칙\n이 영은 2026년 5월 1일부터 시행한다. 다만, 제2조 각 호 외의 부분 단서 및 같은 조 제2호의 개정규정은 2026년 5월 11일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n제헌절을 공휴일로 지정하여 헌법정신에 대한 국민의식을 제고하고, 노동절을 공휴일로 지정하여 공휴일 운영의 통일성과 효율적인 행정 운영을 도모하는 내용으로 「공휴일에 관한 법률」이 개정(법률 제21338호, 2026. 2. 10. 공포, 5. 11. 시행 및 법률 제21543호, 2026. 4. 9. 공포, 5. 1. 시행)됨에 따라, 관공서의 공휴일에 제헌절과 노동절을 추가하고, 제헌절 및 노동절이 토요일이나 일요일 또는 다른 공휴일과 겹치는 경우에는 제헌절 및 노동절 다음의 첫 번째 비공휴일을 대체공휴일로 지정하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「국가공무원법」 및 「공휴일에 관한 법률」에 따라 관공서의 공휴일에 관한 사항을 규정함을 목적으로 한다. <개정 2021.8.4>",
+        "enforcement_date": "20260511",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원법」",
+            "line_text": "제1조(목적) 이 영은 「국가공무원법」 및 「공휴일에 관한 법률」에 따라 관공서의 공휴일에 관한 사항을 규정함을 목적으로 한다. <개정 2021.8.4>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "text_parse",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0001",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공휴일에 관한 법률」",
+            "line_text": "제1조(목적) 이 영은 「국가공무원법」 및 「공휴일에 관한 법률」에 따라 관공서의 공휴일에 관한 사항을 규정함을 목적으로 한다. <개정 2021.8.4>",
+            "target_law_name": "공휴일에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공휴일에 관한 법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0001",
+            "reference_id": "law:공휴일에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:관공서의공휴일에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "공휴일",
+        "chapter": "",
+        "content": "제2조(공휴일) 관공서의 공휴일은 다음 각 호와 같다. 다만, 재외공관의 공휴일은 「국경일에 관한 법률」에 따른 국경일과 주재국의 공휴일로 한다. <개정 1998.12.18, 2005.6.30, 2006.9.6, 2012.12.28, 2017.10.17, 2026.4.30>\n1.  일요일\n2.  「국경일에 관한 법률」에 따른 국경일\n3.  1월 1일\n4.  설날 전날, 설날, 설날 다음 날(음력 12월 말일, 1월 1일, 2일)\n5.  부처님 오신 날(음력 4월 8일)\n6.  노동절(5월 1일)\n7.  어린이날(5월 5일)\n8.  현충일(6월 6일)\n9.  추석 전날, 추석, 추석 다음 날(음력 8월 14일, 15일, 16일)\n10.  기독탄신일(12월 25일)\n10의2.  「공직선거법」 제34조에 따른 임기만료에 의한 선거의 선거일\n11.  그 밖에 정부에서 수시 지정하는 날",
+        "enforcement_date": "20260511",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제34조",
+            "line_text": "",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제34조",
+            "target_article_title": "선거일",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제34조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0002",
+            "reference_id": "law:공직선거법#JO0034"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국경일에 관한 법률」",
+            "line_text": "제2조(공휴일) 관공서의 공휴일은 다음 각 호와 같다. 다만, 재외공관의 공휴일은 「국경일에 관한 법률」에 따른 국경일과 주재국의 공휴일로 한다. <개정 1998.12.18, 2005.6.30, 2006.9.6, 2012.12.28, 2017.10.17, 2026.4.30>",
+            "target_law_name": "국경일에 관한 법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/국경일에 관한 법률",
+            "resolve_method": "text_parse",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0002",
+            "reference_id": "law:국경일에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:관공서의공휴일에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "대체공휴일",
+        "chapter": "",
+        "content": "제3조(대체공휴일)\n① 제2조제2호부터 제10호까지의 공휴일이 다음 각 호의 어느 하나에 해당하는 경우에는 그 공휴일 다음의 첫 번째 비공휴일(제2조 각 호의 공휴일이 아닌 날을 말한다. 이하 같다)을 대체공휴일로 한다. <개정 2023.5.4, 2026.4.30>\n1.  제2조제2호, 제5호부터 제7호까지 또는 제10호의 공휴일이 토요일이나 일요일과 겹치는 경우\n2.  제2조제4호 또는 제9호의 공휴일이 일요일과 겹치는 경우\n3.  제2조제2호, 제4호부터 제7호까지, 제9호 또는 제10호의 공휴일이 토요일ㆍ일요일이 아닌 날에 같은 조 제2호부터 제10호까지의 규정에 따른 다른 공휴일과 겹치는 경우\n② 제1항에 따른 대체공휴일이 같은 날에 겹치는 경우에는 그 대체공휴일 다음의 첫 번째 비공휴일까지 대체공휴일로 한다.\n③ 제1항 및 제2항에 따른 대체공휴일이 토요일인 경우에는 그 다음의 첫 번째 비공휴일을 대체공휴일로 한다.",
+        "enforcement_date": "20260511",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "관공서의 공휴일에 관한 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "공휴일",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정/제2조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0003",
+            "reference_id": "law:관공서의공휴일에관한규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:관공서의공휴일에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "임시공휴일의 지정",
+        "chapter": "",
+        "content": "제4조(임시공휴일의 지정) 제2조제11호에 따른 공휴일을 지정하려는 경우에는 국무회의의 심의를 거쳐야 한다.",
+        "enforcement_date": "20260511",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "관공서의 공휴일에 관한 규정",
+            "target_article_no": "제2조",
+            "target_article_title": "공휴일",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정/제2조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:관공서의공휴일에관한규정#JO0004",
+            "reference_id": "law:관공서의공휴일에관한규정#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:관공서의공휴일에관한규정#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19901105",
+      "promulgation_no": "13155",
+      "addendum_key": "1990110513155",
+      "content": "부칙 <제13155호,1990.11.5>\n이 영은 1991년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19981218",
+      "promulgation_no": "15939",
+      "addendum_key": "1998121815939",
+      "content": "부칙 <제15939호,1998.12.18>\n이 영은 1999년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20050630",
+      "promulgation_no": "18893",
+      "addendum_key": "2005063018893",
+      "content": "부칙 <제18893호,2005.6.30>\n①(시행일) 이 영은 공포한 날부터 시행한다.\n②(국경일중 제헌절에 관한 경과조치) 제2조제2호의 개정규정에 불구하고 제헌절에 관하여는 2007년 12월 31일까지 공휴일로 한다."
+    },
+    {
+      "promulgation_date": "20060906",
+      "promulgation_no": "19674",
+      "addendum_key": "2006090619674",
+      "content": "부칙 <제19674호,2006.9.6>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20121228",
+      "promulgation_no": "24273",
+      "addendum_key": "2012122824273",
+      "content": "부칙 <제24273호,2012.12.28>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20131105",
+      "promulgation_no": "24828",
+      "addendum_key": "2013110524828",
+      "content": "부칙 <제24828호,2013.11.5>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171017",
+      "promulgation_no": "28394",
+      "addendum_key": "2017101728394",
+      "content": "부칙 <제28394호,2017.10.17>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210804",
+      "promulgation_no": "31930",
+      "addendum_key": "2021080431930",
+      "content": "부칙 <제31930호,2021.8.4>\n이 영은 공포한 날부터 시행한다. 다만, 제1조의 개정규정은 2022년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230504",
+      "promulgation_no": "33448",
+      "addendum_key": "2023050433448",
+      "content": "부칙 <제33448호,2023.5.4>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260430",
+      "promulgation_no": "36290",
+      "addendum_key": "2026043036290",
+      "content": "부칙 <제36290호,2026.4.30>\n이 영은 2026년 5월 1일부터 시행한다. 다만, 제2조 각 호 외의 부분 단서 및 같은 조 제2호의 개정규정은 2026년 5월 11일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "internal_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 10,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정"
+  },
+  "provision_id": "law:관공서의공휴일에관한규정#DOC",
+  "future_enforcement_dates": [],
+  "version_count": 1
+}
