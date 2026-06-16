@@ -1,0 +1,701 @@
+{
+  "law_id": "002327",
+  "mst": "287005",
+  "version_uid": "002327:287005:20260616",
+  "law_name": "공무원 채용 신체검사 규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "36419",
+  "promulgation_date": "20260616",
+  "enforcement_date": "20260616",
+  "revision_date": "20260616",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "공무원 채용 신체검사 규정",
+    "별표시행일자문자열": "20260616:별표0,서식1,서식2,서식3",
+    "공포번호": "36419",
+    "전화번호": "044-201-8208",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "002327",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "인사혁신처",
+      "소관부처코드": "1760000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20260616",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-8208",
+        "부서키": "421455",
+        "부서명": "인재정책과",
+        "소관부처명": "인사혁신처",
+        "소관부처코드": "1760000"
+      }
+    },
+    "법령명_한자": "공무원 채용 신체검사 규정",
+    "법령명약칭": "",
+    "공포일자": "20260616",
+    "편장절관": "05020000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 공무원 채용 신체검사 규정 일부개정령을 이에 공포한다.\n대통령        이재명 (인)\n2026년 6월 16일\n국무총리        김민석\n국무위원 행정안전부 장관(인사혁신처 소관)        윤호중\n⊙대통령령 제36419호\n공무원 채용 신체검사 규정 일부개정령\n공무원 채용 신체검사 규정 일부를 다음과 같이 개정한다.\n제3조제1항 중 \"제3호가목ㆍ마목\"을 \"제3호가목ㆍ바목\"으로 한다.\n제3조의2제1항 전단 중 \"고려하여 별지 제1호서식의 신체검사용 채용 신체검사서에 따라\"를 \"고려하여\"로 하고, 같은 항 후단 중 \"제출한 별지 제2호서식의\"를 \"제출한\"으로 하며, 같은 조 제2항 중 \"별지 제3호서식의 재신체검사용 채용 신체검사서에 따라 실시하며,\"를 \"재신체검사를 실시하고\"로 하고, 같은 조에 제4항 및 제5항을 각각 다음과 같이 신설한다.\n④ 제1항 및 제2항에 따른 신체검사 및 재신체검사 판정의 유효기간은 판정일부터 1년으로 한다. 다만, 별표 비고 제1호에 따른 마약류 검사 판정의 유효기간은 판정일부터 4개월로 한다.\n⑤ 제1항 및 제2항에 따른 신체검사 및 재신체검사 실시에 필요한 서식은 인사혁신처장이 정하여 고시한다.\n별표에 비고를 다음과 같이 신설한다.\n비고\n1. 위 표 제13호나목의 마약중독과 그 밖의 약물의 만성중독을 판정하기 위해서는 「마약류 관리에 관한 법률」 제2조제1호에 따른 마약류의 투약, 흡연 및 섭취 여부에 관한 검사(이하 \"마약류 검사\"라 함)를 실시해야 한다.\n2. 마약류 검사 항목은 인사혁신처장이 정한다.\n별지 제1호서식부터 별지 제3호서식까지를 각각 삭제한다.\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(불합격 판정기준의 변경에 따른 적용례) 별표의 개정규정은 이 영 시행 이후 국가공무원 채용시험에 합격한 사람부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공직사회에 마약류 확산을 차단하기 위하여 공무원 채용 신체검사를 실시할 때 마약류의 투약, 흡연 및 섭취 여부에 관한 검사를 하는 근거를 마련하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 국가공무원을 신규로 채용할 때에 그 직무를 담당할 수 있는 신체상의 능력을 판정하기 위하여 실시하는 채용 신체검사에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260616",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0001"
+      },
+      {
+        "article_no": "제1조의2",
+        "article_title": "적용 범위",
+        "chapter": "",
+        "content": "제1조의2(적용 범위) 국가공무원을 신규로 채용할 때에 그 직무를 담당할 수 있는 신체상의 능력을 판정하기 위하여 실시하는 채용 신체검사(이하 \"신체검사\"라 한다)에 관하여는 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 영에 따른다.",
+        "enforcement_date": "20260616",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0001_02"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "신체검사의 주관기관",
+        "chapter": "",
+        "content": "제2조(신체검사의 주관기관) 국가공무원 채용을 위한 신체검사는 임용권자 또는 임용제청권자의 주관으로 제3조제1항에 따른 검진기관에서 실시한다. 다만, 효율적인 신체검사를 위하여 필요한 경우에는 채용시험 실시기관의 장의 주관으로 제3조제1항에 따른 검진기관에서 실시할 수 있다. <개정 2019.12.24>",
+        "enforcement_date": "20260616",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "공무원 채용 신체검사 규정",
+            "target_article_no": "제3조",
+            "target_article_title": "신체검사 실시 검진기관 등",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/공무원 채용 신체검사 규정/제3조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0002",
+            "reference_id": "law:공무원채용신체검사규정#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "신체검사 실시 검진기관 등",
+        "chapter": "",
+        "content": "제3조(신체검사 실시 검진기관 등)\n① 신체검사는 「건강검진기본법」 제14조에 따라 지정된 검진기관 중 인사혁신처장이 정하여 고시하는 검진기관에서 실시하며, 재신체검사는 신체검사에서 판정보류의 원인이 된 분야의 전문의를 둔 「의료법」 제3조제2항제1호가목 및 같은 항 제3호가목ㆍ바목에 따른 의원ㆍ병원ㆍ종합병원에서 실시한다. <개정 2019.12.24, 2026.6.16>\n② 삭제 <2019.12.24>\n③ 신체검사를 주관하는 기관의 장은 임용예정직의 특수성이나 그 밖에 신체검사의 시행을 위하여 특히 필요하다고 인정되는 경우에는 제1항에 따른 검진기관 중에서 해당 신체검사를 실시할 검진기관을 따로 지정할 수 있다. <개정 2019.12.24>",
+        "enforcement_date": "20260616",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제14조",
+            "line_text": "",
+            "target_law_name": "건강검진기본법",
+            "target_article_no": "제14조",
+            "target_article_title": "검진기관의 지정",
+            "target_mst": "279681",
+            "target_url": "https://www.law.go.kr/법령/건강검진기본법/제14조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003",
+            "reference_id": "law:건강검진기본법#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3조",
+            "line_text": "",
+            "target_law_name": "의료법",
+            "target_article_no": "제3조",
+            "target_article_title": "의료기관",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법/제3조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003",
+            "reference_id": "law:의료법#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "인사혁신처장이 정하여 고시하는",
+            "line_text": "",
+            "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "resolve_method": "rendered_dom",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003",
+            "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "인사혁신처장이 정하여 고시하는",
+            "line_text": "검진기관 중 인사혁신처장이 정하여 고시하는 검진기관에서 실시하며,",
+            "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000281508",
+            "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "resolve_method": "lsDelegated+current",
+            "superseded_target": {
+              "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+              "target_mst": "2100000280700",
+              "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침"
+            },
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003",
+            "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0003"
+      },
+      {
+        "article_no": "제3조의2",
+        "article_title": "신체검사의 실시",
+        "chapter": "",
+        "content": "제3조의2(신체검사의 실시)\n① 신체검사를 실시하는 검진기관은 응시자의 응시 직종 등을 고려하여 신체검사를 실시하고 합격 또는 판정보류의 판정을 해야 한다. 이 경우 응시자가 사전에 제출한 전문의 소견서를 판정에 참고할 수 있으며, 필요하면 재신체검사를 위한 진료의뢰서를 발급할 수 있다. <개정 2026.6.16>\n② 재신체검사는 제1항에 따라 판정보류의 판정을 받은 사람에 대하여 판정보류의 원인이 된 분야의 전문의가 재신체검사를 실시하고 합격ㆍ불합격 또는 판정보류의 판정을 해야 한다. <개정 2026.6.16>\n③ 제1항 및 제2항에 따라 신체검사 및 재신체검사를 실시하는 검진기관은 응시자에게 건강검진 관련 문진표를 작성하도록 할 수 있다.\n④ 제1항 및 제2항에 따른 신체검사 및 재신체검사 판정의 유효기간은 판정일부터 1년으로 한다. 다만, 별표 비고 제1호에 따른 마약류 검사 판정의 유효기간은 판정일부터 4개월로 한다. <신설 2026.6.16>\n⑤ 제1항 및 제2항에 따른 신체검사 및 재신체검사 실시에 필요한 서식은 인사혁신처장이 정하여 고시한다. <신설 2026.6.16>",
+        "enforcement_date": "20260616",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2",
+            "link_text": "인사혁신처장이 정하여 고시한다",
+            "line_text": "",
+            "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "resolve_method": "rendered_dom",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003_02",
+            "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2제4항",
+            "link_text": "별표",
+            "line_text": "④ 제1항 및 제2항에 따른 신체검사 및 재신체검사 판정의 유효기간은 판정일부터 1년으로 한다. 다만, 별표 비고 제1호에 따른 마약류 검사 판정의 유효기간은 판정일부터 4개월로 한다. <신설 2026.6.16>",
+            "target_law_name": "공무원 채용 신체검사 규정",
+            "target_article_no": "별표",
+            "target_article_title": "신체검사 불합격 판정기준(제4조 관련)",
+            "appendix_no": "0000",
+            "appendix_branch": "00",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "appendix_dangling": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875221",
+            "resolve_method": "text_parse",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003_02",
+            "reference_id": "law:공무원채용신체검사규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2제5항",
+            "link_text": "인사혁신처장이 정하여 고시한다",
+            "line_text": "제1항 및 제2항에 따른 신체검사 및 재신체검사 실시에 필요한 서식은 인사혁신처장이 정하여 고시한다",
+            "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000281508",
+            "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침",
+            "resolve_method": "lsDelegated+current",
+            "superseded_target": {
+              "target_law_name": "국가공무원 임용시험 및 실무수습 업무처리 지침",
+              "target_mst": "2100000280700",
+              "target_url": "https://www.law.go.kr/행정규칙/국가공무원 임용시험 및 실무수습 업무처리 지침"
+            },
+            "source_provision_id": "law:공무원채용신체검사규정#JO0003_02",
+            "reference_id": "admrul:국가공무원임용시험및실무수습업무처리지침#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0003_02"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "불합격 판정기준",
+        "chapter": "",
+        "content": "제4조(불합격 판정기준) 신체검사의 불합격 판정기준은 별표와 같다. 다만, 직무의 특수성이 있는 공무원에 대한 신체검사 불합격 판정기준은 소속 장관이 인사혁신처장과 협의하여 따로 정할 수 있다. <개정 2013.3.23, 2014.11.19>",
+        "enforcement_date": "20260616",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표",
+            "line_text": "제4조(불합격 판정기준) 신체검사의 불합격 판정기준은 별표와 같다. 다만, 직무의 특수성이 있는 공무원에 대한 신체검사 불합격 판정기준은 소속 장관이 인사혁신처장과 협의하여 따로 정할 수 있다. <개정 2013.3.23, 2014.11.19>",
+            "target_law_name": "공무원 채용 신체검사 규정",
+            "target_article_no": "별표",
+            "target_article_title": "신체검사 불합격 판정기준(제4조 관련)",
+            "appendix_no": "0000",
+            "appendix_branch": "00",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "appendix_dangling": false,
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875221",
+            "resolve_method": "text_parse",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0004",
+            "reference_id": "law:공무원채용신체검사규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "채용 금지",
+        "chapter": "",
+        "content": "제5조(채용 금지) 임용권자는 신체검사에 불합격 판정을 받은 사람을 채용할 수 없다. 다만, 다음 각 호의 어느 하나에 해당하는 사람 중 해당 직무수행에 지장이 없다고 인정되는 사람에 대해서는 그러하지 아니하다. <개정 2012.6.27>\n1.  「국가유공자 등 예우 및 지원에 관한 법률」 제4조제1항제4호ㆍ제6호ㆍ제12호ㆍ제15호 및 제17호에 따른 전상군경(戰傷軍警), 공상군경(公傷軍警), 4ㆍ19혁명부상자, 공상공무원 및 국가사회발전 특별공로상이자\n2.  「의사상자 등 예우 및 지원에 관한 법률」 제2조제3호에 따른 의상자(義傷者)\n3.  「장애인복지법」 제2조에 따른 장애인",
+        "enforcement_date": "20260616",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조",
+            "line_text": "",
+            "target_law_name": "국가유공자 등 예우 및 지원에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "적용 대상 국가유공자",
+            "target_mst": "276369",
+            "target_url": "https://www.law.go.kr/법령/국가유공자 등 예우 및 지원에 관한 법률/제4조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0005",
+            "reference_id": "law:국가유공자등예우및지원에관한법률#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "의사상자 등 예우 및 지원에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "276679",
+            "target_url": "https://www.law.go.kr/법령/의사상자 등 예우 및 지원에 관한 법률/제2조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0005",
+            "reference_id": "law:의사상자등예우및지원에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2조",
+            "line_text": "",
+            "target_law_name": "장애인복지법",
+            "target_article_no": "제2조",
+            "target_article_title": "장애인의 정의 등",
+            "target_mst": "281941",
+            "target_url": "https://www.law.go.kr/법령/장애인복지법/제2조",
+            "resolve_method": "rendered_link",
+            "source_provision_id": "law:공무원채용신체검사규정#JO0005",
+            "reference_id": "law:장애인복지법#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "수수료",
+        "chapter": "",
+        "content": "제6조(수수료) 신체검사를 받는 사람은 신체검사에 필요한 실비(實費)를 수수료로 내야 한다.",
+        "enforcement_date": "20260616",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제7조 삭제 <1998ㆍ12ㆍ31>",
+        "enforcement_date": "20260616",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공무원채용신체검사규정#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700615",
+      "promulgation_no": "05040",
+      "addendum_key": "1970061505040",
+      "content": "부칙 <제5040호,1970.6.15>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19700715",
+      "promulgation_no": "05201",
+      "addendum_key": "1970071505201",
+      "content": "부칙 <제5201호,1970.7.15>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19751115",
+      "promulgation_no": "07873",
+      "addendum_key": "1975111507873",
+      "content": "부칙 <제7873호,1975.11.15>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19840630",
+      "promulgation_no": "11458",
+      "addendum_key": "1984063011458",
+      "content": "부칙 <제11458호,1984.6.30>\n①(시행일) 이 영은 1984년 9월 1일부터 시행한다.\n②(진행중인 시험에 대한 경과조치) 이 영 시행당시 진행중인 시험에 응시하는 자에 대한 신체검사는 종전의 규정에 의한다."
+    },
+    {
+      "promulgation_date": "19871010",
+      "promulgation_no": "12255",
+      "addendum_key": "1987101012255",
+      "content": "부칙 <제12255호,1987.10.10>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(진행중인 시험에 대한 경과조치) 이 영 시행전에 개시한 시험에 응시한 자에 대한 신체검사에 관하여는 종전의 규정에 의한다."
+    },
+    {
+      "promulgation_date": "19900813",
+      "promulgation_no": "13073",
+      "addendum_key": "1990081313073",
+      "content": "부칙 <제13073호,1990.8.13>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "19901201",
+      "promulgation_no": "13173",
+      "addendum_key": "1990120113173",
+      "content": "부칙(장애인복지법시행령) <제13173호,1990.12.1>\n제1조 (시행일) 이 영은 공포한 날로부터 시행한다. <단서 생략>\n제2조 (다른 법령의 개정) ①및 ②생략\n③공무원채용신체검사규정중 다음과 같이 개정한다.\n제5조 제4호를 다음과 같이 한다.\n4. 장애인복지법 제2조의 규정에 의한 장애인\n④내지 <24>생략\n제3조 및 제4조 생략"
+    },
+    {
+      "promulgation_date": "19910628",
+      "promulgation_no": "13404",
+      "addendum_key": "1991062813404",
+      "content": "부칙(의사상자보호법시행령) <제13404호,1991.6.28>\n①(시행일) 이 영은 1991년 7월 1일부터 시행한다.\n②(다른 법령의 개정) 공무원채용신체검사규정중 다음과 같이 개정한다.\n제5조 제3호중\"재해구제로인한의사상자구호법\"을\"의사상자보호법\"으로 한다."
+    },
+    {
+      "promulgation_date": "19941223",
+      "promulgation_no": "14446",
+      "addendum_key": "1994122314446",
+      "content": "부칙(보건복지부와그소속기관직제) <제14446호,1994.12.23>\n제1조 (시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 생략\n제3조 (다른 법령의 개정) ①내지 ⑦생략\n⑧공무원채용신체검사규정중 다음과 같이 개정한다.\n제3조 제1항제4호중\"보건사회부장관\"을\"보건복지부장관\"으로 한다.\n⑨내지 <140>생략"
+    },
+    {
+      "promulgation_date": "19951222",
+      "promulgation_no": "14838",
+      "addendum_key": "1995122214838",
+      "content": "부칙(공무원임용시험령) <제14838호,1995.12.22>\n①(시행일) 이 영은 1996년 1월 1일부터 시행한다.\n②생략\n③(다른 법령의 개정) 공무원채용신체검사규정중 다음과 같이 개정한다.\n제5조의 제목\"(채용시험 불합격결정 및 채용금지)\"를\"(채용금지)\"로 하고, 동조 각호외의 부분을 다음과 같이 한다.\n임용권자는 신체검사에 불합격판정을 받은 자를 채용할 수 없다. 다만, 다음 각호에 해당하는 자로서 당해 직무수행에 지장이 없다고 인정되는 자에 대하여는 그러하지 아니하다."
+    },
+    {
+      "promulgation_date": "19970930",
+      "promulgation_no": "15486",
+      "addendum_key": "1997093015486",
+      "content": "부칙(국가유공자등예우및지원에관한법률시행령) <제15486호,1997.9.30>\n제1조 (시행일) 이 영은 공포한 날부터 시행한다.\n제2조 (다른 법령의 개정) ①및 ②생략\n③공무원채용신체검사규정중 다음과 같이 개정한다.\n제5조 제1호중\"국가유공자예우등에관한법률\"을\"국가유공자등예우및지원에관한법률\"로 한다.\n④내지 <30>생략\n제3조 생략"
+    },
+    {
+      "promulgation_date": "19981231",
+      "promulgation_no": "16033",
+      "addendum_key": "1998123116033",
+      "content": "부칙 <제16033호,1998.12.31>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20040611",
+      "promulgation_no": "18416",
+      "addendum_key": "2004061118416",
+      "content": "부칙(공무원임용령) <제18416호,2004.6.11>\n제1조 (시행일) 이 영은 2004년 6월 12일부터 시행한다.\n제2조 생략\n제3조 (다른 법령의 개정) ①내지 ③생략\n④공무원채용신체검사규정중 다음과 같이 개정한다.\n제4조중 \"행정자치부장관과\"를 \"중앙인사위원회와\"로 한다.\n⑤내지 ⑫생략"
+    },
+    {
+      "promulgation_date": "20051230",
+      "promulgation_no": "19229",
+      "addendum_key": "2005123019229",
+      "content": "부칙 <제19229호,2005.12.30>\n①(시행일) 이 영은 공포한 날부터 시행한다.\n②(진행중인 시험에 대한 경과조치) 이 영 시행 전에 개시한 시험에 응시한 자에 대한 신체검사는 종전의 규정에 의한다."
+    },
+    {
+      "promulgation_date": "20061229",
+      "promulgation_no": "19807",
+      "addendum_key": "2006122919807",
+      "content": "부칙 <제19807호,2006.12.29>\n①(시행일) 이 영은 2007년 1월 1일부터 시행한다.\n②(진행중인 시험에 대한 경과조치) 이 영 시행 전에 시작되어 진행중인 시험에 응시한 자에 대한 신체검사는 종전의 규정에 따른다."
+    },
+    {
+      "promulgation_date": "20080131",
+      "promulgation_no": "20581",
+      "addendum_key": "2008013120581",
+      "content": "부칙(의사상자 등 예우 및 지원에 관한 법률 시행령) <제20581호,2008.1.31>\n제1조 (시행일) 이 영은 2008년 2월 4일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조 (다른 법령의 개정) ① 공무원 채용신체검사 규정 일부를 다음과 같이 개정한다.\n제5조제3호를 다음과 같이 한다.\n3. 「의사상자 등 예우 및 지원에 관한 법률」 제2조제3호에 따른 의상자\n② 부터 ⑥ 까지 생략\n제6조 생략"
+    },
+    {
+      "promulgation_date": "20080229",
+      "promulgation_no": "20741",
+      "addendum_key": "2008022920741",
+      "content": "부칙(행정안전부와 그 소속기관 직제) <제20741호,2008.2.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 부터 <18> 까지 생략\n<19> 공무원 채용신체검사 규정 일부를 다음과 같이 개정한다.\n제4조 단서 중 \"중앙인사위원회와\"를 \"행정안전부장관과\"로 한다.\n별지 서식의 ※ 주의사항 (응시자) 제1호가목 중 \"행정자치부, 철도청\"을 \"행정안전부, 국세청\"으로 한다.\n<20> 부터 <105> 까지 생략"
+    },
+    {
+      "promulgation_date": "20101102",
+      "promulgation_no": "22466",
+      "addendum_key": "2010110222466",
+      "content": "부칙 <제22466호,2010.11.2>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(불합격 판정기준의 변경에 따른 적용례) 별표의 개정규정은 이 영 시행 당시 진행 중인 국가공무원의 채용 절차에서 아직 채용신체검사를 받지 않은 사람과 채용신체검사를 받았으나 불합격 판정 또는 판정보류의 판정을 받은 사람에 대해서도 적용한다."
+    },
+    {
+      "promulgation_date": "20110929",
+      "promulgation_no": "23164",
+      "addendum_key": "2011092923164",
+      "content": "부칙 <제23164호,2011.9.29>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120627",
+      "promulgation_no": "23885",
+      "addendum_key": "2012062723885",
+      "content": "부칙(국가유공자 등 예우 및 지원에 관한 법률 시행령) <제23885호,2012.6.27>\n제1조(시행일) 이 영은 2012년 7월 1일부터 시행한다.\n제2조 부터 제12조까지 생략\n제13조(다른 법령의 개정) ① 및 ② 생략\n③ 공무원 채용 신체검사 규정 일부를 다음과 같이 개정한다.\n제5조제1호 중 \"「국가유공자 등 예우 및 지원에 관한 법률」 제4조제1항제4호ㆍ제6호ㆍ제11호ㆍ제14호 및 제16호\"를 \" 「국가유공자 등 예우 및 지원에 관한 법률」 제4조제1항제4호ㆍ제6호ㆍ제12호ㆍ제15호 및 제17호\"로 한다.\n④ 및 ⑤ 생략\n제14조 생략"
+    },
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "24425",
+      "addendum_key": "2013032324425",
+      "content": "부칙(안전행정부와 그 소속기관 직제) <제24425호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <24>까지 생략\n<25> 공무원 채용 신체검사 규정 일부를 다음과 같이 개정한다.\n제4조 단서 중 \"행정안전부장관\"을 \"안전행정부장관\"으로 한다.\n별지 서식의 유의사항 및 작성방법란 중 \"행정안전부\"를 \"안전행정부\"로 한다.\n<26>부터 <129>까지 생략"
+    },
+    {
+      "promulgation_date": "20141119",
+      "promulgation_no": "25751",
+      "addendum_key": "2014111925751",
+      "content": "부칙(행정자치부와 그 소속기관 직제) <제25751호,2014.11.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <125>까지 생략\n<126> 공무원 채용 신체검사 규정 일부를 다음과 같이 개정한다.\n제4조 단서 중 \"안전행정부장관\"을 \"인사혁신처장\"으로 한다.\n별지 서식의 유의사항 및 작성방법란 [응시자] 제1호가목 중 \"안전행정부\"를 \"인사혁신처\"로 한다.\n<127>부터 <418>까지 생략"
+    },
+    {
+      "promulgation_date": "20150925",
+      "promulgation_no": "26568",
+      "addendum_key": "2015092526568",
+      "content": "부칙(법령서식 일괄 개정을 위한 공무원 징계령 등 일부개정령) <제26568호,2015.9.25>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(서식 개정에 관한 경과조치) 이 영 시행 당시 종전의 규정에 따른 서식은 이 영 시행 이후 3개월 간 이 영에 따른 서식과 함께 사용할 수 있다."
+    },
+    {
+      "promulgation_date": "20180605",
+      "promulgation_no": "28946",
+      "addendum_key": "2018060528946",
+      "content": "부칙(일본식 용어 정비를 위한 공무원 채용 신체검사 규정 등 19개 대통령령 일부개정령) <제28946호,2018.6.5>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191224",
+      "promulgation_no": "30266",
+      "addendum_key": "2019122430266",
+      "content": "부칙 <제30266호,2019.12.24>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(신체검사 실시 등에 관한 적용례) 이 영은 이 영 시행 당시 국가공무원의 채용 절차가 진행 중인 경우로서 이 영 시행 전에 신체검사를 받았으나 불합격 판정 또는 판정보류의 판정을 받은 사람에 대해서도 적용한다."
+    },
+    {
+      "promulgation_date": "20210105",
+      "promulgation_no": "31380",
+      "addendum_key": "2021010531380",
+      "content": "부칙(어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령) <제31380호,2021.1.5>\n이 영은 공포한 날부터 시행한다. <단서 생략>"
+    },
+    {
+      "promulgation_date": "20241203",
+      "promulgation_no": "35038",
+      "addendum_key": "2024120335038",
+      "content": "부칙(주민등록법 시행령) <제35038호,2024.12.3>\n제1조(시행일) 이 영은 2024년 12월 27일부터 시행한다. <단서 생략>\n제2조(다른 법령의 개정) ① 및 ② 생략\n③ 공무원 채용 신체검사 규정 일부를 다음과 같이 개정한다.\n별지 제1호서식 뒤쪽 유의사항 및 작성방법란의 [응시자] 제2호 중 \"신분증(주민등록증, 운전면허증, 여권 등)\"을 \"신분증[주민등록증(모바일 주민등록증을 포함합니다), 운전면허증, 여권 등]\"으로 한다.\n별지 제3호서식 뒤쪽 유의사항 및 작성방법란의 [응시자] 제2호 중 \"신분증(주민등록증, 운전면허증, 여권 등)\"을 \"신분증[주민등록증(모바일 주민등록증을 포함합니다), 운전면허증, 여권 등]\"으로 한다.\n④부터 <23>까지 생략"
+    },
+    {
+      "promulgation_date": "20260616",
+      "promulgation_no": "36419",
+      "addendum_key": "2026061636419",
+      "content": "부칙 <제36419호,2026.6.16>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(불합격 판정기준의 변경에 따른 적용례) 별표의 개정규정은 이 영 시행 이후 국가공무원 채용시험에 합격한 사람부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "신체검사 불합격 판정기준(제4조 관련)",
+      "enforcement_date": "20260616",
+      "content": "■ 공무원 채용 신체검사 규정 [별표] <개정 2026. 6. 16.>\n\n신체검사 불합격 판정기준(제4조 관련)\n\n1. 일반결함\n가. 병의 증세 또는 경과가 좋지 않은 악성종양\n나. 고혈압성 응급증\n2. 비강(鼻腔)ㆍ구강ㆍ인후기관 계통\n업무수행에 큰 지장이 있을 정도로 대화 및 호흡에 장애를 주는 비강ㆍ구강ㆍ인후ㆍ\n식도의 변형 및 기능장애\n3. 흉부\n업무수행에 큰 지장이 있는 중증 호흡기 질환\n4. 심장ㆍ혈관 및 순환기 계통\n업무수행에 큰 지장이 있는 중증 심혈관 질환\n5. 복부 장기 및 내장 계통\n업무수행에 큰 지장이 있는 중증 간질환\n6. 생식비뇨기 계통\n업무수행에 큰 지장이 있는 중증 신장질환\n7. 내분비 계통\n업무수행에 큰 지장이 있는 중증 내분비질환\n8. 혈액 또는 조혈 계통\n업무수행에 큰 지장이 있는 중증 혈액질환\n9. 신경 계통\n가. 뇌졸중(腦卒中) 등 뇌혈관질환에 의하여 업무수행에 큰 지장이 있는 후유증\n나. 중추신경계 염증성질환에 의하여 업무수행에 큰 지장이 있는 후유증\n다. 만성 진행성ㆍ퇴행성 질환 및 업무수행에 큰 지장이 있는 뇌척수염(腦脊髓炎)[유전성\n무도병(舞蹈病:근육에 불수의적 운동장애를 나타내는 증후군), 근위축성 측색경화\n증, 소뇌성운동실조증(小腦性運動失調症) 및 다발성 경화증을 포함한다]\n라. 업무수행에 큰 지장이 있는 다음 질환\n1) 뇌종양 및 척수종양\n2) 외상성 신경질환\n3) 말초신경질환\n4) 전신성의 신경근(神經筋) 접합부 질환\n5) 유전성 및 후천성 만성근육질환\n6) 뇌전증(腦電症)(증상의 발생으로 업무수행에 즉각적으로 큰 지장이 생기는 운전\n등의 업무로 한정한다)\n10. 팔다리\n가. 문서 작성 능력 또는 자기 표현 능력에 큰 지장이 있는 상지(어깨ㆍ팔ㆍ손) 장\n애\n나. 업무수행에 큰 지장이 있는 관절 질환\n11. 귀\n업무수행에 큰 지장이 있는 청력 장애\n12. 눈\n업무수행에 큰 지장이 있는 시각 장애, 시야 장애, 안구운동 장애 또는 색각 이상\n13. 정신 계통\n가. 업무수행에 큰 지장이 있는 정신계통의 질병\n나. 마약중독과 그 밖의 약물의 만성 중독\n비고\n1. 위 표 제13호나목의 마약중독과 그 밖의 약물의 만성중독을 판정하기 위해서는\n「마약류 관리에 관한 법률」 제2조제1호에 따른 마약류의 투약, 흡연 및 섭취 여부\n에 관한 검사(이하 \"마약류 검사\"라 함)를 실시해야 한다.\n2. 마약류 검사 항목은 인사혁신처장이 정한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875221",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875219",
+          "name": "law0023272026061636419KC_000000E_20260616.hwp"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875221",
+          "name": "law0023272026061636419KC_000000E_20260616.pdf"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875223",
+          "name": "000000110201_P1_20260616.gif"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875225",
+          "name": "000000110201_P2_20260616.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:공무원채용신체검사규정#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2026. 6. 16.>",
+      "enforcement_date": "20260616",
+      "content": "■ 공무원 채용 신체검사 규정 [별지 제1호서식] 삭제 <2026. 6. 16.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875229",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875227",
+          "name": "law0023272026061636419KC_000100F_20260616.hwp"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875229",
+          "name": "law0023272026061636419KC_000100F_20260616.pdf"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875231",
+          "name": "000100110202_P1_20260616.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:공무원채용신체검사규정#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2026. 6. 16.>",
+      "enforcement_date": "20260616",
+      "content": "■ 공무원 채용 신체검사 규정 [별지 제2호서식] 삭제 <2026. 6. 16.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875235",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875233",
+          "name": "law0023272026061636419KC_000200F_20260616.hwp"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875235",
+          "name": "law0023272026061636419KC_000200F_20260616.pdf"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875237",
+          "name": "000200110202_P1_20260616.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:공무원채용신체검사규정#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2026. 6. 16.>",
+      "enforcement_date": "20260616",
+      "content": "■ 공무원 채용 신체검사 규정 [별지 제3호서식] 삭제 <2026. 6. 16.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875241",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875239",
+          "name": "law0023272026061636419KC_000300F_20260616.hwp"
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875241",
+          "name": "law0023272026061636419KC_000300F_20260616.pdf"
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164875243",
+          "name": "000300110202_P1_20260616.gif"
+        }
+      ],
+      "images": [],
+      "provision_id": "law:공무원채용신체검사규정#BJ0003"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 4,
+      "별표": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 1,
+      "delegation": 4,
+      "citation": 5,
+      "appendix_ref": 2
+    },
+    "articles_total": 9,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 28,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/공무원 채용 신체검사 규정"
+  },
+  "provision_id": "law:공무원채용신체검사규정#DOC",
+  "future_enforcement_dates": [],
+  "version_count": 1
+}
